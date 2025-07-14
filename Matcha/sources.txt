@@ -1,0 +1,73 @@
+Information about the corpora sources per domain.
+
+==========
+BLOCKCHAIN 
+==========
+
+https://en.wikipedia.org/wiki/Blockchain#:~:text=A%20blockchain%20is%20a%20decentralized%2C,inexpensively.%20A%20blockchain%20database%20is 
+
+https://medium.com/blockchain/cryptocurrency-changing-the-future-of-finance-4f775fd12196 
+
+https://medium.com/blockchain/the-ethereum-upgrade-everything-you-need-to-know-about-shanghai-capella-1de5b812d6d5  
+
+https://medium.com/blockchain/new-blockchain-com-app-the-only-crypto-app-youll-ever-need-a4ea497f8f21  
+
+https://medium.com/blockchain/our-top-5-crypto-resolutions-d58fe079bf49  
+
+https://medium.com/blockchain/blockchain-com-survey-reveals-crypto-investors-are-cautiously-optimistic-heading-into-2023-3eaa9530c893  
+
+https://www.soldev.app/course/intro-to-cryptography  
+
+https://www.soldev.app/course/intro-to-reading-data  
+
+https://www.soldev.app/course/intro-to-writing-data  
+
+https://www.soldev.app/course/interact-with-wallets  
+
+https://www.soldev.app/course/serialize-instruction-data  
+
+https://blockchain.news/news/bitcoin-displays-potential-stability-amidst-global-economic-uncertainty  
+
+https://blockchain.news/news/bitcoin-displays-potential-stability-amidst-global-economic-uncertainty  
+
+https://blockchain.news/news/crypto-drainers-threat-bitcoin-cryptocurrencies  
+
+https://blockchain.news/news/bitcoins-capabilities-to-be-extended-with-new-docking-layer-exsat  
+
+https://blockchain.news/news/krafton-partners-with-solana-labs-to-develop-blockchain-based-games  
+
+https://www.investopedia.com/terms/b/blockchain.asp  
+
+
+
+=================
+MATERIAL SCIENCE 
+=================
+1.	Rakhadilov, B., Kengesbekov, A., Zhurerova, L., Kozhanova, R., & Sagdoldina, Z. (2021). Impact of electronic radiation on the morphology of the fine structure of the surface layer of R6M5 steel. Machines, 9(2), 24.
+
+2.	Rakhadilov, B., Zhurerova, L., & Pavlov, A. (2016, August). Method of electrolyte-plasma surface hardening of 65G and 20GL low-alloy steels samples. In IOP Conference Series: Materials Science and Engineering (Vol. 142, No. 1, p. 012028). IOP Publishing.
+
+3.	Yumashev, A. V., Semenycheva, I., Rakhadilov, B., & Tsymbal, A. (2019). Development of biocompatible coatings for dental implants based on transition metal nitrides. Journal of Global Pharma Technology, 11(5), 22-28. 
+
+4.	Skakov, M., Rakhadilov, B., Sсheffler, M., Karipbayeva, G., & Rakhadilov, M. (2013). Electrolyte plasma nitriding of high-speed steel. Applied Mechanics and Materials, 379, 161-166. 
+
+5.	Sagdoldina, Z., Rakhadilov, B., Kurbanbekov, S., Kozhanova, R., & Kengesbekov, A. (2021). Effect of irradiation with Si+ ions on phase transformations in Ti–Al system during thermal annealing. Coatings, 11(2), 205.
+
+6.	Rakhadilov, B., Sulyubayeva, L., Maulet, M., Sagdoldina, Z., Buitkenov, D., & Issova, A. (2023). Investigation of high-temperature oxidation of homogeneous and gradient ni-cr-al coatings obtained by detonation spraying. Coatings, 14(1), 11.
+
+7.	Kengesbekov, A., Rakhadilov, B., Sagdoldina, Z., Buitkenov, D., Dosymov, Y., & Kylyshkanov, M. (2022). Improving the efficiency of air plasma spraying of titanium nitride powder. Coatings, 12(11), 1644.
+
+8.	Rakhadilov, B., Satbayeva, Z., Kusainov, A., Naimankumaruly, E., Abylkalykova, R., & Sulyubayeva, L. (2023). Linear Plasma device for the study of plasma–surface interactions. Applied Sciences, 13(21), 11673.
+
+9.	Skakov, M., Rakhadilov, B., Batyrbekov, E., & Scheffler, M. (2014). Change of structure and mechanical properties of R6M5 steel surface layer at electrolytic-plasma nitriding. Advanced Materials Research, 1040, 753-758.
+
+10.	Skakov, М., Rakhadilov, B., & Karipbayeva, G. (2013). Specifics of microstructure and phase composition of high-speed steel R6M5. Applied Mechanics and Materials, 404, 20-24.
+
+11.	Rakhadilov, B., Buitkenov, D., Sagdoldina, Z., Seitov, B., Kurbanbekov, S., & Adilkanova, M. (2021). Structural features and tribological properties of detonation gun sprayed Ti–Si–C coating. Coatings, 11(2), 141.
+
+12.	Rakhadilov, B., Kakimzhanov, D., Buitkenov, D., Abdulina, S., Zhurerova, L., & Sagdoldina, Z. (2022). Structural Phase Transformations in Detonation Coatings Based on Ti3SiC2 after Pulse-Plasma Effect. Crystals, 12(10), 1388.
+
+13.	Rakhadilov, B., & Baizhan, D. (2021). Creation of bioceramic coatings on the surface of Ti–6Al–4V alloy by plasma electrolytic oxidation followed by gas detonation spraying. Coatings, 11(12), 1433.
+
+14.	Rakhadilov, B., Kakimzhanov, D., Dautbekov, M., Sagdoldina, Z., Adylkanova, M., & Abylkalykova, R. (2023). Influence of Spraying Parameters on the Structure and Tribological Properties of Cr3C2‐NiCr Detonation Coatings. Advances in Tribology, 2023(1), 6684656.
+
