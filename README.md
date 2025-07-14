@@ -1,19 +1,21 @@
 # TermEx
 
-Данный репозиторий содержит разработки для автоматического извлечения терминов из текстов на английском и казахском языках. Представлены как неконтролируемые (unsupervised), так и контролируемые (supervised) методы аннотирования, а также корпус размеченных текстов.
+This repository provides resources for automatic term extraction from English and Kazakh texts. It includes both unsupervised and supervised annotators, as well as a manually annotated dataset.
 
 ## Unsupervised-Annotators
-В данной папке представлены два неконтролируемых аннотатора:
 
-* UA1 — основан на морфологическом и семантическом анализе;
+This folder contains two unsupervised term annotators:
 
-* UA2 — использует семантический анализ и метод неотрицательной матричной факторизации (NMF).
+* UA1 – based on morphological and semantic analysis;
 
-Оба аннотатора предназначены для извлечения терминов из текстов на английском и казахском языках без предварительной разметки.
+* UA2 – combines semantic analysis with Non-negative Matrix Factorization (NMF).
+
+Both annotators are designed for extracting candidate terms from English and Kazakh texts without the need for labeled data.
 
 
 ## Supervised_annotator
-Контролируемый аннотатор реализован на основе архитектуры BERT-BiLSTM-CRF, совмещающей возможности трансформера BERT, рекуррентной сети BiLSTM и условной случайной поля (CRF). Модель обучается на корпусе текстов с BIO-разметкой терминов.
+
+This folder includes a supervised term annotator based on the BERT-BiLSTM-CRF architecture, which integrates the BERT transformer, a bidirectional LSTM, and a Conditional Random Field layer. The model is trained on term-labeled texts using the BIO tagging scheme.
 
 ## Matcha
-Корпус Matcha представляет собой набор текстов с аннотацией терминов на английском и казахском языках. Аннотированные данные охватывают специализированные домены, такие как блокчейн и материаловедение.
+The Matcha dataset consists of English and Kazakh texts annotated with domain-specific terms. It covers two specialized domains: Blockchain and Materials Science.
