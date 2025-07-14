@@ -1,0 +1,262 @@
+
+Rheology: The study of the flow and deformation of matter, focusing on the behavior of complex fluids and soft solids under various conditions of stress and strain. 
+
+ 
+
+Rolling: A metalworking process that involves passing metal through one or more pairs of rolls to reduce thickness, increase length, and improve surface finish. 
+
+ 
+
+Scaffolding Materials: Materials used in tissue engineering as temporary structures to support the growth and formation of new tissues until the body can rebuild itself. 
+
+ 
+
+Scanning Tunneling Microscopy (STM): A technique that provides atomic-level images of surfaces using a sharp tip that scans the surface at a close distance, utilizing quantum tunneling of electrons between the tip and the surface. 
+
+ 
+
+Segregation: The non-uniform distribution of alloying elements, impurities, or phases within a material or casting, often leading to variations in microstructure and properties. 
+
+ 
+
+Shape Memory Alloys (SMAs): Alloys that can return to their original shape after being deformed when exposed to a certain temperature, utilized in actuators, sensors, and medical devices. 
+
+ 
+
+Sintering: A process where powdered materials are heated below their melting point to bond particles together, producing a solid structure, widely used in powder metallurgy and ceramic processing. 
+
+ 
+
+Slip Systems: The combination of slip planes and slip directions along which dislocations move under stress, critical for understanding the plastic deformation of crystals. 
+
+ 
+
+Sol-Gel Process: A wet-chemical technique for fabricating solid materials from small molecules through the formation of a colloidal solution (sol) that acts as the precursor for an integrated network (gel) of either discrete particles or network polymers. 
+
+ 
+
+Solid Solution Strengthening: The enhancement of a metal's strength and hardness through the addition of solute atoms that distort the metal lattice and hinder dislocation motion. 
+
+ 
+
+Solid-State Welding: A group of welding processes that join materials without melting them, involving the application of pressure, and sometimes heat, to create a weld. 
+
+ 
+
+Spark Plasma Sintering (SPS): A sintering technique that applies a pulsed electric current under high pressure to the powdered material, enabling rapid densification at lower temperatures. 
+
+ 
+
+Spectroscopy: The study of the interaction between matter and electromagnetic radiation, used to analyze the composition, structure, and physical properties of materials. 
+
+ 
+
+Spinodal Decomposition: A phase separation process occurring in alloys, where a single-phase alloy spontaneously separates into two different compositions due to fluctuations in concentration, leading to a distinct microstructure. 
+
+ 
+
+Sputtering: A physical vapor deposition (PVD) process used to deposit thin films by ejecting atoms from a solid target material onto a substrate using high-energy ions. 
+
+ 
+
+Stainless Steels: A group of corrosion-resistant steel alloys containing a minimum of 10.5% chromium, offering a variety of mechanical properties and resistance to environmental corrosion. 
+
+ 
+
+Stereolithography (SLA): A 3D printing technology that uses a laser to cure and solidify a photopolymer resin layer by layer, creating detailed and complex parts. 
+
+ 
+
+Stress Corrosion Cracking (SCC): The growth of crack formation in a corrosive environment, significantly affected by tensile stress, occurring in certain materials under specific environmental conditions. 
+
+ 
+
+Superplasticity: The ability of a material to undergo extensive plastic deformation at elevated temperatures before failure, utilized in superplastic forming processes for manufacturing complex shapes. 
+
+ 
+
+Surface Modification: The alteration of the surface properties of a material to improve characteristics such as adhesion, wettability, corrosion resistance, and wear resistance. 
+
+ 
+
+Surface Tension: The energy or force at the surface of a liquid that resists external forces, important in the processing of materials and the behavior of liquid metals and polymers. 
+
+ 
+
+Suspension Polymerization: A polymerization process where monomers are dispersed in a liquid medium to form polymer particles, used for producing polymers with specific characteristics. 
+
+ 
+
+Tensile Testing: A mechanical test where a material sample is stretched until it breaks to measure properties such as ultimate tensile strength, elongation, and reduction in area. 
+
+ 
+
+Thermal Barrier Coatings (TBCs): Coatings applied to metallic surfaces operating at high temperatures, such as turbine blades, to insulate the metal from the hot gases, thereby increasing efficiency and lifespan. 
+
+ 
+
+Thermal Conductivity: A measure of a material's ability to conduct heat, critical for materials used in thermal management and insulation applications. 
+
+ 
+
+Thermal Expansion: The tendency of matter to change its shape, area, and volume in response to a change in temperature, important for understanding material behavior under thermal stress. 
+
+ 
+
+Thermoelectric Materials: Materials that can convert temperature differences directly into electrical voltage and vice versa, used in power generation and cooling applications. 
+
+ 
+
+Thermogravimetric Analysis (TGA): A method of thermal analysis where the mass of a material is measured over time as the temperature changes, used to study thermal stability, composition, and oxidative stability. 
+
+ 
+
+Thermomechanical Processing: The use of thermal (heat treatments) and mechanical (deformation processes) treatments in combination to alter the microstructure and properties of a material. 
+
+ 
+
+Thermo-mechanical Treatment (TMT): A process that combines thermal and mechanical processing to enhance the mechanical properties of metals, such as strength, toughness, and ductility. 
+
+ 
+
+Thin Film Deposition: The process of depositing a thin layer of material – ranging from a single layer of atoms to several micrometers in thickness – onto a substrate or onto previously deposited layers. 
+
+ 
+
+Titanium Alloys: Alloys of titanium that include other elements, such as aluminum and vanadium, offering high strength, light weight, and corrosion resistance, used in aerospace, medical devices, and sporting goods. 
+
+ 
+
+Toughness: The ability of a material to absorb energy and plastically deform without fracturing, important for assessing materials' resistance to impact and shock. 
+
+ 
+
+Transmission Electron Microscopy (TEM): A microscopy technique that uses a beam of electrons transmitted through an ultra-thin specimen, interacting with the specimen as it passes through, used to see the internal structure at high resolution. 
+
+ 
+
+Tribology: The study of friction, wear, and lubrication between surfaces in relative motion, crucial for the design and maintenance of all kinds of systems and materials. 
+
+ 
+Ultrasonic Testing: A non-destructive testing technique that uses high-frequency sound waves to detect imperfections, measure thickness, and analyze material properties within a component without altering it. 
+
+ 
+
+Vacuum Brazing: A brazing process performed in a vacuum environment to join materials using a filler metal with a lower melting point than the workpieces, providing superior joint quality and cleanliness. 
+
+ 
+
+Vapor Phase Epitaxy (VPE): A process for the growth of thin crystalline layers on a substrate by the reaction of vapor-phase chemical precursors, commonly used in semiconductor fabrication. 
+
+ 
+
+Vickers Hardness Test: A method to measure the hardness of materials, involving pressing a square-based diamond pyramid indenter into the material under a specific load and measuring the diagonal length of the indentation. 
+
+ 
+
+Viscoelasticity: The property of materials that exhibit both viscous and elastic characteristics when deformed, important in polymers and biological tissues. 
+
+ 
+
+Viscosity: A measure of a fluid's resistance to flow, reflecting how thick or sticky the fluid is. 
+
+ 
+
+Welding Metallurgy: The study of the changes that take place in metals during welding processes, including phase transformations, microstructural evolution, and effects on mechanical properties. 
+
+ 
+
+Wetting Angle: The angle at which a liquid interface meets a solid surface, indicating the degree of wetting or adhesion between the liquid and the surface. 
+
+ 
+
+Wide Bandgap Semiconductors: Semiconductors with a larger bandgap than traditional semiconductors, enabling operation at higher temperatures, voltages, and frequencies, important for power electronics and LED technology. 
+
+ 
+
+X-ray Photoelectron Spectroscopy (XPS): An analytical technique used to identify the elemental composition of materials, as well as chemical and electronic state information, by measuring the kinetic energy of electrons ejected by x-ray irradiation. 
+
+ 
+
+Yield Strength: The stress at which a material begins to deform plastically, marking the end of elastic behavior and the beginning of permanent deformation. 
+
+ 
+
+Zirconium Alloys: Alloys containing zirconium, known for their high corrosion resistance, used primarily in nuclear reactors due to their low neutron absorption cross-section. 
+
+ 
+
+3D Printing Materials: Various materials used in 3D printing processes, including plastics, metals, ceramics, and composites, chosen based on the desired properties and application of the printed object. 
+
+ 
+
+4D Printing: An extension of 3D printing where printed objects can change shape or properties over time or in response to environmental conditions, incorporating the dimension of time as the fourth dimension. 
+
+ 
+
+Acoustic Emission Testing: A non-destructive testing method that monitors and analyzes sound waves emitted by materials under stress to detect and locate cracks or defects. 
+
+ 
+
+Bioactive Glasses: Glasses that interact with biological tissues, promoting bonding and biological activity, commonly used in medical implants and tissue regeneration. 
+
+ 
+
+Cold Spray Technology: A materials deposition process where particles are accelerated to high velocities by a gas stream to bond them to a substrate without significant heating, allowing for the coating of temperature-sensitive materials. 
+
+ 
+
+Digital Image Correlation (DIC): An optical method used to measure deformation, strain, and movement by comparing images of an object's surface before and after deformation. 
+
+ 
+
+Electrochemical Impedance Spectroscopy (EIS): A technique measuring the impedance of a system over a range of frequencies to analyze the electrochemical properties, such as corrosion, of materials. 
+
+ 
+
+Flexible Electronics Materials: Materials that are bendable and stretchable, making them suitable for flexible electronic devices like wearable sensors, flexible displays, and electronic textiles. 
+
+ 
+
+Grain Growth Inhibitors: Additives or elements that restrict grain growth in metals and alloys during heat treatment, enhancing mechanical properties by maintaining a fine-grained microstructure. 
+
+ 
+
+High-throughput Materials Discovery: Techniques that rapidly screen a wide variety of materials and compositions to identify those with desirable properties for specific applications. 
+
+ 
+
+Laser Peening: A surface treatment process that uses laser-induced shock waves to enhance the surface properties of materials, improving fatigue resistance and stress corrosion cracking resistance. 
+
+ 
+
+Magnesium Alloys: Lightweight metals combining magnesium with other elements, prized for their high strength-to-weight ratio, used in automotive, aerospace, and consumer electronics applications. 
+
+ 
+
+Nanoimprint Lithography: A method of fabricating nanometer-scale patterns by mechanically deforming a mold over a substrate, used in semiconductor manufacturing and nanotechnology. 
+
+ 
+
+Optical Coatings: Thin layers of material applied to optical components to alter their reflectivity, transmissivity, and other optical properties, used in lenses, mirrors, and displays. 
+
+ 
+
+Photovoltaic Materials: Materials that convert light into electricity, used in solar cells and panels for renewable energy generation. 
+
+ 
+
+Rapid Prototyping: Techniques that quickly fabricate a scale model of a physical part or assembly using three-dimensional computer-aided design (CAD) data, commonly involving 3D printing or additive manufacturing methods. 
+
+ 
+
+Silica Aerogels: Extremely lightweight and porous materials made from silica, known for their low thermal conductivity and high surface area, used in insulation, aerospace, and desiccation applications. 
+
+ 
+
+Superconducting Materials: Materials that can conduct electricity without resistance below a certain temperature, used in magnetic resonance imaging (MRI), particle accelerators, and quantum computing. 
+
+ 
+
+Surface Plasmon Resonance: A phenomenon where electrons on a metal surface resonate with incident light, used in sensors to detect molecular interactions. 
+

@@ -1,0 +1,279 @@
+
+Alloying Elements Distribution: The manner in which alloying elements are distributed within a metal or alloy, affecting its mechanical properties, corrosion resistance, and heat treatment response. 
+
+ 
+
+Microprobe Analysis: An analytical technique used to determine the chemical composition of small areas of a material, using focused beams of electrons or X-rays. 
+
+ 
+
+Microstructure Evolution: The changes in the microstructure of a material due to processes such as heat treatment, deformation, or aging, affecting its properties. 
+
+ 
+
+Detonation Nanostructures Coating: A coating process that uses controlled detonations to deposit thin films of material at the nanoscale, improving surface properties such as hardness and corrosion resistance. 
+
+ 
+
+Gradient Coatings: Coatings that have a gradual variation in composition or structure across their thickness, tailored to provide specific surface properties. 
+
+ 
+
+Plasma Electrolytic Oxidation (PEO): An electrochemical surface treatment process that produces oxide coatings on metals, such as aluminum, magnesium, and titanium, enhancing their wear, corrosion, and heat resistance. 
+
+ 
+
+Detonation Spraying Behavior: A coating process involving the use of detonation waves to propel powdered material onto a substrate, creating a coating. It is used for applying hard and wear-resistant coatings. 
+ 
+Additive Manufacturing: A process of creating objects by adding material layer by layer, based on digital models, often referred to as 3D printing. 
+
+ 
+
+Advanced Ceramics: Ceramics with enhanced properties such as toughness, hardness, and thermal stability, used in applications like aerospace, biomedical implants, and electronics. 
+
+ 
+
+Amorphous Metals: Metals that lack a crystalline structure, known as metallic glasses, characterized by their unique mechanical and magnetic properties. 
+
+ 
+
+Anisotropy: The directional dependence of a material's properties, meaning that its characteristics vary depending on the direction of measurement. 
+
+ 
+
+Annealing: A heat treatment process that alters the microstructure of a material to reduce hardness, increase ductility, and relieve internal stresses. 
+
+ 
+
+Atomic Layer Deposition (ALD): A thin-film deposition technique that allows for the precise layer-by-layer construction of materials, often used for coating, semiconductor devices, and nanotechnology. 
+
+ 
+
+Austenitizing: Heating a ferrous alloy to a temperature at which it changes to austenite, a phase that allows for subsequent heat treatments like quenching to form martensite. 
+
+ 
+
+Bainite: A two-phase microstructure in steel that combines strength and ductility, formed at temperatures lower than those producing pearlite and higher than those producing martensite. 
+
+ 
+
+Biodegradable Polymers: Polymers designed to break down into non-toxic components after use, often used in medical applications and environmentally friendly packaging. 
+
+ 
+
+Biomaterials: Materials, either natural or synthetic, that are used to interact with biological systems for medical purposes, such as implants, devices, or tissue engineering scaffolds. 
+
+ 
+
+Bulk Metallic Glasses: Amorphous metals produced in larger volumes than typical metallic glasses, without the need for rapid cooling, offering superior strength and elasticity. 
+
+ 
+
+Calorimetry: A technique used to measure the heat of chemical reactions or physical changes, as well as heat capacity. 
+
+ 
+
+Carbon Nanotubes (CNTs): Cylindrical nanostructures with remarkable mechanical, electrical, and thermal properties, used in various applications from materials reinforcement to electronics. 
+
+ 
+
+Cementite: A compound of iron and carbon, known as iron carbide (Fe3C), which is a hard phase in steel contributing to its hardness and strength. 
+
+ 
+
+Ceramic Matrix Composites (CMCs): Composites made of ceramic fibers embedded in a ceramic matrix, offering high temperature resistance and toughness. 
+
+ 
+
+Chemical Vapor Deposition (CVD): A process used to produce high-quality, high-performance solid materials by depositing a thin film from a gas phase. 
+
+ 
+
+Cladding: A process of coating a material (substrate) with another material for protective or aesthetic purposes, often used in nuclear reactors and on building exteriors. 
+
+ 
+
+Coating Adhesion: The degree to which a coating material sticks to the substrate material, crucial for the durability and effectiveness of the coating. 
+
+ 
+
+Cold Rolling: A metalworking process that passes metal through rollers at a temperature below its recrystallization temperature to reduce thickness, improve surface finish, and enhance mechanical properties. 
+
+ 
+
+Composite Materials: Materials made from two or more constituent materials with significantly different physical or chemical properties, that when combined, produce a material with characteristics different from the individual components. 
+
+ 
+
+Conducting Polymers: Polymers that conduct electricity, used in applications such as organic light-emitting diodes (OLEDs), solar cells, and electronic devices. 
+
+ 
+
+Creep Resistance: The ability of a material to resist deformation under sustained load over a long period, important for high-temperature applications. 
+
+ 
+
+Critical Resolved Shear Stress (CRSS): The minimum stress required to initiate slip in a crystal lattice, important in understanding the mechanical behavior of materials. 
+
+ 
+
+Cryogenic Treatment: A process of treating materials at very low temperatures to improve their wear resistance, hardness, and dimensional stability. 
+
+ 
+
+Crystal Growth: The process by which a crystalline substance grows due to the arrangement of its atoms or molecules in a highly ordered microscopic structure. 
+
+ 
+
+Crystallographic Texture: The orientation distribution of crystallites in a polycrystalline material, which can significantly affect its properties. 
+
+ 
+
+Deformation Mechanisms: The processes by which materials undergo deformation, including slip, twinning, and creep. 
+
+ 
+
+Dendritic Solidification: The formation of tree-like structures during the solidification of alloys, influenced by cooling rates and composition. 
+
+ 
+
+Density Functional Theory (DFT): A quantum mechanical method used to investigate the electronic structure of many-body systems, particularly in the field of materials science. 
+
+ 
+
+Dielectric Materials: Insulating materials that can be polarized by an electric field, important in capacitors and other electrical components. 
+
+ 
+
+Diffusion Bonding: A solid-state welding technique that joins materials using high pressure and elevated temperature without melting, relying on diffusion of atoms across the bond. 
+
+ 
+
+Direct Metal Laser Sintering (DMLS): An additive manufacturing technique that uses a laser to sinter powdered metal, creating complex geometries layer by layer. 
+
+ 
+
+Dislocation Dynamics: The study of the movement and interaction of dislocations within crystalline solids, crucial for understanding material strength and deformation. 
+
+ 
+
+Doping (Semiconductors): The addition of impurities to a semiconductor to change its electrical properties, crucial for the function of electronic devices. 
+
+ 
+
+Ductility: The ability of a material to deform under tensile stress, important for materials that need to undergo shaping or withstand structural loads without fracturing. 
+
+ 
+
+Dynamic Mechanical Analysis (DMA): A technique used to study the properties of materials as they are deformed under periodic stress, useful for characterizing polymers. 
+
+ 
+
+Eddy Current Testing: A non-destructive testing method that uses electromagnetic induction to detect flaws in conductive materials. 
+
+ 
+
+Electrical Conductivity: The ability of a material to conduct electric current, crucial for materials used in electrical and electronic applications. 
+
+ 
+
+Electromagnetic Shielding: The process of blocking electromagnetic fields using barrier made of conductive or magnetic materials, important for protecting electronic devices from interference. 
+
+ 
+
+Electron Microscopy: A technique that uses a beam of electrons to create an image of the specimen, offering higher resolution than light microscopy. 
+
+ 
+
+Electron Probe Microanalysis (EPMA): An analytical technique that uses a focused beam of electrons to obtain quantitative elemental analysis of small volumes of materials. 
+
+ 
+
+Electrospinning: A process used to produce fine, continuous fibers from a polymer solution or melt using an electrostatic force. 
+
+ 
+
+Energy Dispersive X-ray Spectroscopy (EDS): An analytical technique used alongside electron microscopy to determine the elemental composition of materials. 
+
+ 
+
+Eutectic Systems: Mixtures of substances that have a single chemical composition that solidifies at a lower temperature than any other composition made up of the same ingredients. 
+
+ 
+
+Fatigue Life: The number of cycles of stress or strain a material can withstand before failure occurs due to fatigue. 
+
+Ferroelectric Materials: Materials that possess a spontaneous electric polarization that can be reversed by the application of an external electric field, used in sensors, actuators, and memory devices. 
+
+ 
+
+Fiber Reinforced Composites: Composites made by embedding fibers of one material in a matrix of another to achieve superior strength, stiffness, and other properties than either of the components alone. 
+
+ 
+
+Focused Ion Beam (FIB) Milling: A material processing technique that uses a focused beam of ions to precisely remove material from a substrate, used for machining, imaging, and deposition at the micro- and nanoscale. 
+
+ 
+
+Forging: A manufacturing process that shapes metal using localized compressive forces, often hammering or pressing, to produce parts with high strength. 
+
+ 
+
+Fractography: The study of the fracture surfaces of materials to determine the cause of failure, using techniques like scanning electron microscopy. 
+
+ 
+
+Fracture Mechanics: A field of mechanics that studies the formation, growth, and propagation of cracks in materials and structures under stress. 
+
+ 
+
+Functionally Graded Materials (FGMs): Materials with spatial variations in composition and structure, engineered to have specific properties that vary over volume, enhancing their performance in multifunctional applications. 
+
+ 
+
+Galvanic Corrosion: A type of corrosion that occurs when two different metals are in electrical contact in a corrosive environment, causing one metal (the anode) to corrode faster than it would alone, and the other (the cathode) to corrode slower. 
+
+ 
+
+Glass Transition Temperature: The temperature at which a polymer changes from a hard, glassy material to a soft, rubbery material, indicating a phase transition rather than a melting point. 
+
+ 
+
+Grain Boundary Engineering: A process of manipulating the size, shape, and distribution of grains and grain boundaries in a polycrystalline material to enhance its mechanical and physical properties. 
+
+ 
+
+Grain Refinement: The process of increasing the number of grains in a material, leading to finer grain structure, which improves mechanical properties like strength and toughness. 
+
+ 
+
+Graphene: A single layer of carbon atoms arranged in a two-dimensional honeycomb lattice, known for its exceptional strength, electrical conductivity, and thermal conductivity. 
+
+ 
+
+Hall-Petch Relationship: A principle stating that the strength of a crystalline material increases as the grain size decreases, due to the restriction of dislocation movement by the grain boundaries. 
+
+ 
+
+Hardness Testing: The measurement of a material's resistance to deformation, typically by indenting the material with a specific indenter and measuring the size of the indentation. 
+
+ 
+
+Heat Treatment: A group of industrial processes used to alter the physical and sometimes chemical properties of a material, involving heating and cooling cycles to achieve desired outcomes such as hardening, softening, or increasing toughness. 
+
+ 
+
+High Entropy Alloys (HEAs): Alloys that are formed by mixing five or more elements in equal or nearly equal quantities, characterized by their high strength, toughness, and resistance to corrosion and oxidation. 
+
+ 
+
+High-Temperature Superconductors: Materials that conduct electricity without resistance at temperatures significantly above the boiling point of liquid nitrogen (-196°C), used in magnetic resonance imaging (MRI), maglev trains, and power cables. 
+
+ 
+
+Hot Isostatic Pressing (HIP): A process that applies high pressure and high temperature simultaneously to compact and eliminate voids in materials, improving mechanical properties and density. 
+
+ 
+
+Hydrothermal Synthesis: A method of synthesizing materials in an aqueous environment under high pressure and temperature, commonly used for the growth of crystals and the fabrication of nanostructures. 
+

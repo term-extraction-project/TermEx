@@ -1,0 +1,231 @@
+Definitions 
+
+ 
+
+Electrolyte Plasma Nitriding: A surface hardening process that uses plasma in an electrolytic solution to introduce nitrogen into the surface of a material, improving its wear resistance and hardness. 
+
+ 
+
+High-Speed Steel (HSS): A class of alloy steels that can withstand high temperatures without losing hardness, primarily used in cutting tools and drill bits due to their ability to cut faster than high carbon steels. 
+
+ 
+
+Wear Resistance: The ability of a material to resist being worn away by friction and mechanical action, thereby extending its service life in various applications. 
+
+ 
+
+Microhardness: A measure of a material's hardness on a microscopic scale, typically determined by indenting the material with a diamond tip and measuring the size of the indentation. 
+
+ 
+
+Structural-Phase States: The various structural forms (phases) and arrangements within a material, which can significantly influence its properties such as strength, hardness, and ductility. 
+
+ 
+
+Diffusion Saturation Process: A treatment process that introduces atoms of a certain element into the surface of a material through diffusion, aiming to improve properties like hardness, wear resistance, and corrosion resistance. 
+
+ 
+
+Ferrite-Pearlite Structure: A common microstructure found in steel, consisting of a mixture of ferrite (soft phase) and pearlite (layered structure of ferrite and cementite), affecting the steel's mechanical properties. 
+
+ 
+
+Martensite Phase Components: Products of a diffusionless transformation characterized by a body-centered tetragonal crystal structure, resulting in a hard and brittle phase in steels. 
+
+ 
+
+Carbides Particles: Hard particles formed by carbon and other elements (like tungsten, chromium, or vanadium) in metals, contributing to the hardness and wear resistance of the material. 
+
+ 
+
+Plasma Flows: Streams of ionized gas containing an equal number of free electrons and positive ions, used in various processes like plasma cutting, nitriding, and surface treatments. 
+
+ 
+
+Electron and Ion Beams: Streams of electrons or ions directed at a target material, used for material processing, including welding, cutting, and surface modification. 
+
+ 
+
+Laser Beams: Highly focused, coherent streams of photons used in cutting, welding, and surface treatment processes due to their precision and energy concentration. 
+
+ 
+
+Chemical-Thermal Treatment: A process that combines chemical and thermal methods to modify the surface properties of a material, such as carburizing or nitriding, to improve wear resistance, hardness, and other properties. 
+
+ 
+
+Electron Beam Processing: The use of electron beams to treat materials, which can involve welding, melting, or surface modification, providing advantages like deep penetration and minimal distortion. 
+
+ 
+
+Structural Restructuring: The alteration of the internal structure of a material, which can be induced by mechanical work, heat treatment, or other processes, affecting its mechanical properties. 
+
+ 
+
+Phase Composition: The variety and proportion of different phases (solid, liquid, gas) or microstructural components within a material, influencing its overall properties. 
+
+ 
+
+Dislocation Substructures: The arrangement and density of dislocations (defects) within the crystal structure of a material, affecting its strength and hardness. 
+
+ 
+
+Dislocation Hardening: The increase in a material's hardness and strength caused by the presence of dislocations, which impede the movement of dislocation lines and hinder plastic deformation. 
+
+ 
+
+Residual Austenite: Austenite (face-centered cubic iron) that remains in steel after quenching, which can affect the steel's toughness, strength, and wear resistance. 
+
+ 
+
+Lamellar and Packet Martensite: Forms of martensite characterized by their microstructural appearance; lamellar martensite shows a plate-like structure, while packet martensite consists of groups of martensite laths arranged in specific orientations. 
+
+ 
+
+Scalar and Excess Dislocation Density: Scalar dislocation density refers to the total length of dislocation lines per unit volume of a material, while excess dislocation density specifically refers to the density of dislocations beyond the equilibrium or base level, often resulting from plastic deformation. 
+
+ 
+
+Lattice Curvature-Torsion: Describes the deformation of the crystal lattice in materials, where curvature relates to bending and torsion to twisting. These deformations are associated with the presence and movement of dislocations. 
+
+ 
+
+Internal Stresses: Stresses that exist inside a material without external forces being applied. They can be caused by non-uniform cooling, phase transformations, or plastic deformation, affecting the material's mechanical properties and behavior. 
+
+ 
+
+M6 C-type Carbide: A specific type of carbide (where M represents a metal element) that is formed in steel and other alloys. These carbides are known for their hardness and resistance to wear and are important in determining the properties of high-speed steels and tool steels. 
+
+ 
+
+Surface Irradiation: The process of exposing the surface of a material to a flux of energetic particles or radiation, such as electrons, ions, or photons, which can alter the material's surface properties, including its microstructure and mechanical behavior. 
+
+ 
+
+Electrolytic-Plasma Nitriding: A surface hardening treatment that combines electrolytic processes with plasma technology to introduce nitrogen into the surface layer of a material, enhancing its hardness and wear resistance. 
+
+ 
+
+Carbamide Electrolyte: An electrolytic solution containing carbamide (urea), often used in electrochemical processes, including electrolytic-plasma nitriding, for surface treatment of metals to improve their properties. 
+
+ 
+
+High-Speed Steel (R6M5): A grade of high-speed steel characterized by excellent cutting performance and wear resistance, often used in the manufacture of cutting tools, drill bits, and other tools subjected to high temperatures and wear. 
+
+ 
+
+Abrasive Wear: Wear caused by hard particles or hard protuberances forced against and moving along a solid surface, resulting in material removal through mechanical action. 
+
+ 
+
+Plasma-Surface Interactions: The interactions between a plasma (an ionized gas) and the surface of a material, which can lead to changes in the material's surface structure, composition, and properties. 
+
+ 
+
+Tungsten Surface Erosion: The wear or removal of tungsten material from a surface due to exposure to plasma, high temperatures, or mechanical action. It is a significant concern in applications like fusion reactors where tungsten is used as a plasma-facing material. 
+
+ 
+
+Fusion Reactor Materials: Materials used in the construction of fusion reactors, chosen for their ability to withstand extreme environments, including high temperatures, neutron irradiation, and plasma exposure. 
+
+ 
+
+Plasma Generation: The process of creating plasma, typically by applying energy (such as heat, electrical fields, or electromagnetic radiation) to a gas, causing it to become ionized. 
+
+ 
+
+Divertor Candidate Materials: Materials considered suitable for use in the divertor component of a fusion reactor, which is designed to remove waste heat and particles from the plasma without being damaged. 
+
+ 
+
+Thermal Loads: The amount of heat energy that a material or structure is subjected to, which can induce thermal stresses, deformation, or other thermal effects. 
+
+ 
+
+Neutron Damage: The structural damage and changes in material properties caused by neutron irradiation, particularly relevant in nuclear reactors and fusion devices, affecting materials' mechanical strength and lifetime. 
+
+ 
+
+Ductile-to-Brittle Transition Temperature (DBTT): The temperature below which a material that is normally ductile becomes brittle and fractures in a brittle manner. This transition is critical for materials used in cold environments. 
+
+ 
+
+Plasma Detachment: A process in controlled fusion devices where the plasma edge is cooled and detached from the solid surfaces, reducing the heat and particle fluxes to the device walls. 
+
+ 
+
+Helium Plasma Exposure: The exposure of materials to helium plasma, which is of particular interest in fusion energy research due to the production of helium ions during fusion reactions and their impact on materials. 
+
+ 
+
+Surface Roughness Measurement: The quantification of the surface texture or roughness of a material, usually performed using techniques such as profilometry, which can influence the material's mechanical and physical properties. 
+
+ 
+
+Ion Effects on Materials: Changes in a material's properties and structure due to exposure to ion beams, which can include sputtering, implantation, and modification of electrical and mechanical properties. 
+
+ 
+
+Electrocorundum Abrasive: A synthetic abrasive made from aluminum oxide (Al2O3), used for grinding, cutting, and polishing due to its hardness and durability. 
+
+ 
+
+Nitrogen Martensite: A form of martensite in steel that has been nitrogen-strengthened, resulting in improved hardness and wear resistance due to the presence of nitrogen atoms within the martensitic structure. 
+
+ 
+
+Carbide Phases: Hard, wear-resistant phases within metals and alloys, formed by carbon interacting with other elements like tungsten, vanadium, or chromium, contributing to the material's hardness and resistance to high temperatures. 
+
+ 
+
+FCC Crystal Lattice: Face-Centered Cubic crystal structure, where atoms are located at each corner and the centers of all the faces of the cube, common in metals like aluminum, copper, and nickel, providing good ductility and strength. 
+
+ 
+
+Electron Backscatter Diffraction (EBSD): A microscopy technique used to analyze the crystallographic structure of materials by detecting electrons that are backscattered from a sample, providing information on grain orientation, phases, and textures. 
+
+ 
+
+X-ray Diffraction (XRD) Analysis: A technique used to determine the crystal structure, phase composition, and other structural properties of a material by measuring the diffraction patterns of X-rays scattered by the material's atoms. 
+
+ 
+
+Phase Composition Analysis: The determination of the different phases present within a material, including their proportions and distribution, often using techniques like XRD or EBSD. 
+
+ 
+
+Tempered Martensite: Martensite that has been heat-treated (tempered) to reduce its brittleness while maintaining most of its high hardness and strength, used to improve mechanical properties. 
+
+Solid Carbide M6C: A specific type of carbide phase found in some steels and alloys, characterized by its chemical composition and structure, contributing to the hardness and wear resistance of the material. 
+
+MC-type Carbide: Carbides where M stands for a metal (such as tungsten or titanium) and C stands for carbon, known for their hardness and resistance to wear. 
+
+ 
+
+Spherical Carbides: Carbide particles that have a spherical shape, often found in certain types of steel and alloys, contributing to the material's wear resistance and toughness. 
+
+ 
+
+Fd3m Spatial Group: A specific type of space group symmetry found in crystal structures, denoting the arrangement of atoms within the crystal lattice. 
+
+ 
+
+Monocrystalline Carbides: Carbides that consist of a single crystal structure, providing superior hardness and wear resistance compared to polycrystalline carbides. 
+
+ 
+
+Tungsten-molybdenum Steels: Steels alloyed with tungsten and molybdenum to improve their high-temperature strength, hardness, and resistance to wear and corrosion. 
+
+ 
+
+Scanning Electron Microscopy (SEM): A type of electron microscopy that produces high-resolution images of the surface of materials, allowing for detailed examination of topography and composition. 
+
+Elemental Composition Mapping: The process of using analytical techniques, such as SEM combined with energy-dispersive X-ray spectroscopy (EDX), to map the distribution of elements within a material. 
+
+ 
+
+High-Speed Steels: A group of alloy steels used to make tools that can cut at high speeds without losing their hardness, characterized by their resistance to wear and softening at high temperatures. 
+
+ 
+
+Heat-Resistance: The ability of a material to retain its mechanical properties at elevated temperatures without degrading. 

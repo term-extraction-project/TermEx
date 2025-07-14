@@ -1,0 +1,268 @@
+
+Impact Toughness: The ability of a material to absorb energy and plastically deform without fracturing when subjected to a high rate of loading, as in an impact. 
+
+ 
+
+Impedance Spectroscopy: A technique that measures the electrical impedance of a material as a function of frequency, used to characterize materials' electrical properties. 
+
+ 
+
+Inclusion Analysis: The study of non-metallic particles within a metal or alloy, which can affect its mechanical properties and quality. 
+
+ 
+
+Indentation Hardness: A measure of a material's resistance to permanent indentation, determined by pressing a hard indenter into the material's surface under a specific load. 
+
+ 
+
+Induction Hardening: A heat treatment process that hardens the surface of a metal part by heating it through electromagnetic induction, followed by rapid cooling (quenching). 
+
+ 
+
+Infrared Spectroscopy: A technique used to identify and study chemicals through their absorption of infrared light, revealing molecular vibrations and chemical compositions. 
+
+ 
+
+Intergranular Corrosion: Corrosion that occurs along the grain boundaries of a material, often due to the segregation of impurities or the depletion of alloying elements. 
+
+ 
+
+Intermetallic Compounds: Compounds composed of two or more metals that possess a distinct crystal structure, exhibiting unique mechanical, thermal, and electrical properties. 
+
+ 
+
+Ion Implantation: A technique used to modify the surface properties of materials by bombarding them with high-energy ions, affecting their electrical, optical, and mechanical characteristics. 
+
+ 
+
+Isothermal Transformation: A transformation that occurs at a constant temperature, often used in the context of phase transformations in metals and alloys during heat treatment. 
+
+ 
+
+Joule Heating: The process by which the passage of an electric current through a conductor produces heat, also known as resistive or ohmic heating. 
+
+ 
+
+Kinetic Monte Carlo Simulation: A computational method used to model the time evolution of various processes, including chemical reactions and diffusion, by simulating the sequence of events based on their probability of occurrence. 
+
+ 
+
+Laser Cladding: A material deposition process that uses a laser to melt metal powder or wire onto a substrate, forming a high-quality coating that is fully bonded to the base material. 
+
+ 
+
+Laser-Induced Breakdown Spectroscopy (LIBS): An analytical technique that uses a high-intensity laser pulse to create a plasma on the material's surface, analyzing the light emitted to determine elemental composition. 
+
+ 
+
+Lead-Free Solders: Soldering materials that do not contain lead, used to join metal components in a way that is safer for health and the environment. 
+
+ 
+
+Lightweight Alloys: Alloys designed to have low density but high strength and stiffness, used in automotive, aerospace, and other applications where reducing weight is critical. 
+
+ 
+
+Liquid Crystal Polymers (LCPs): A type of polymer that exhibits a phase between solid and liquid states, known for their high temperature resistance and mechanical properties, used in electronic and microwave applications. 
+
+ 
+
+Luminescent Materials: Materials that emit light through fluorescence, phosphorescence, or other forms of luminescence when excited by an external source of energy. 
+
+ 
+
+Magnetic Materials: Materials that exhibit various forms of magnetism, such as ferromagnetism or paramagnetism, used in data storage, motors, and sensors. 
+
+ 
+
+Magnetostriction: The property of ferromagnetic materials to change their shape or dimensions during the process of magnetization. 
+
+ 
+
+Martensitic Transformation: A diffusionless phase transformation in which the crystal structure of a metal or alloy is changed, typically resulting in a harder and more brittle phase. 
+
+ 
+
+Material Fatigue: The weakening or failure of a material after repeatedly applied loads or stress, less than the strength limit of the material, leading to cumulative damage and cracks over time. 
+
+ 
+
+Mechanical Alloying: A solid-state powder processing technique involving repeated welding, fracturing, and re-welding of powder particles in a high-energy ball mill to produce alloys. 
+
+ 
+
+Mechanical Testing: The evaluation of the mechanical properties of materials, such as strength, ductility, hardness, and toughness, through tests like tension, compression, and impact. 
+
+ 
+
+Metal Matrix Composites (MMCs): Composite materials that have a metal matrix and one or more secondary phases as reinforcement, enhancing strength, stiffness, and other properties. 
+
+ 
+
+Metal Foams: Lightweight, porous materials made from metals, characterized by their cellular structure, offering benefits in terms of weight reduction and improved energy absorption. 
+
+ 
+
+Metallography: The study of the microstructure of metals and alloys through microscopic examination, critical for understanding material properties and failures. 
+
+ 
+
+Metastable Phases: Temporary, non-equilibrium states of materials that possess different properties than stable phases, which can transform into more stable configurations over time or under certain conditions. 
+
+ 
+
+Microalloying: The addition of small amounts of alloying elements to a base metal to refine its microstructure and improve its properties without significantly altering its composition. 
+
+ 
+
+Microelectromechanical Systems (MEMS): Miniaturized mechanical and electromechanical devices or systems fabricated using microfabrication techniques, used in sensors, actuators, and other applications. 
+
+ 
+
+Micromachining: The process of machining parts and structures on the microscale, often using techniques like photolithography, laser machining, and micro milling. 
+
+ 
+
+Microtensile Testing: A method of testing the mechanical properties, such as tensile strength and elongation, of materials on a microscale sample size. 
+
+ 
+
+Microwave Sintering: A method of sintering materials using microwave energy, which can heat materials rapidly and uniformly, leading to enhanced densification and properties. 
+
+ 
+
+MIM (Metal Injection Molding): A process combining powder metallurgy and plastic injection molding to produce precise, complex metal parts in large quantities. 
+
+ 
+
+Mineral Wool Insulation: An insulation material made from fibers of basalt or slag, offering thermal and sound insulation, and fire resistance. 
+
+ 
+
+Molybdenum Disulfide (MoS2): A compound used as a solid lubricant and a semiconductor material, noted for its low friction properties and electronic applications. 
+
+ 
+
+Nanocomposites: Materials composed of a matrix and nanoparticles dispersed within it, which can significantly improve the material's mechanical, electrical, or thermal properties. 
+
+ 
+
+Nanofibers: Fibers with diameters in the nanometer range, produced by processes like electrospinning, used in applications such as filtration, tissue engineering, and sensors. 
+
+ 
+
+Nanolithography: Techniques for patterning structures on a nanoscale, crucial for the fabrication of nanotechnology devices and components. 
+
+ 
+
+Nanoparticles: Particles with dimensions measured in nanometers, exhibiting unique chemical, physical, and electronic properties due to their size. 
+
+ 
+
+Nanoscale Materials: Materials engineered or structured at the nanometer scale (1 to 100 nanometers), where they exhibit novel properties distinct from bulk materials. 
+
+ 
+
+Nanowires: Ultra-thin wires with diameters in the nanometer range, used in electronics and nanotechnology for their unique electrical, thermal, and mechanical properties. 
+
+ 
+
+Near Net Shape Manufacturing: Processes that produce parts close to final dimensions, minimizing the need for machining or finishing, reducing material waste and production costs. 
+
+ 
+
+Non-destructive Testing (NDT): A range of analysis techniques used to evaluate the properties of a material, component, or system without causing damage. 
+
+ 
+
+Optical Microscopy: The use of light microscopes to visualize small features and structures of materials at magnifications typically up to 1000x. 
+
+ 
+
+Organometallic Frameworks (MOFs): Structures consisting of metal ions or clusters coordinated to organic ligands to form one-, two-, or three-dimensional networks, used for gas storage, separation, and catalysis. 
+
+ 
+
+Oxidation Resistance: The ability of a material to withstand damage caused by reaction with oxygen and other corrosive environments at high temperatures. 
+
+ 
+
+Particle Reinforced Composites: Composites where small particles are dispersed within a matrix material to enhance its mechanical and physical properties. 
+
+ 
+
+Passivation: The process of making a material less reactive by creating a protective oxide layer on its surface, enhancing corrosion resistance. 
+
+ 
+
+Permeability: The ability of a material to allow fluids or gases to pass through it, important in filtration, membrane technology, and porous materials. 
+
+ 
+
+Photolithography: A process used in microfabrication to pattern parts of a thin film or the bulk of a substrate using light to transfer a geometric pattern from a photomask to a light-sensitive chemical photoresist on the substrate. 
+
+ 
+
+Piezoelectric Materials: Materials that generate an electric charge in response to applied mechanical stress, used in sensors, actuators, and energy harvesting devices. 
+
+ 
+
+Plasma Enhanced Chemical Vapor Deposition (PECVD): A technique used to deposit thin films from a gas state to a solid state on a substrate by applying a plasma to enhance chemical reactions at lower temperatures. 
+
+ 
+
+Polymer Blends: Physical mixtures of two or more polymers to combine properties of the constituent polymers, offering improved characteristics or performance. 
+
+ 
+
+Polymerization: The chemical process of joining monomers to form a polymer, a large molecule composed of repeating structural units. 
+
+ 
+
+Porosity: The presence of pores or voids within a material, affecting its mechanical strength, density, permeability, and other properties. 
+
+ 
+
+Powder Metallurgy: A manufacturing process that involves making metal parts and components from powdered metal through pressing and sintering. 
+
+ 
+
+Precipitation Hardening: A heat treatment technique used to increase the yield strength of malleable materials, including most structural alloys, by dispersing small particles within the metal matrix. 
+
+ 
+
+Pyrolysis: The thermal decomposition of materials at elevated temperatures in an inert atmosphere, used in the production of carbon fibers, biochar, and other materials. 
+
+ 
+
+Quantum Dots: Nanoscale semiconductor particles that have quantum mechanical properties, used in displays, solar cells, and biomedical imaging. 
+
+ 
+
+Quenching: A rapid cooling process used after heat treatment of materials to increase hardness and strength by inducing phase transformations. 
+
+ 
+
+Radiography: The use of X-rays or gamma rays to view the internal structure of an object, a non-destructive testing method to detect internal flaws. 
+
+ 
+
+Reactive Ion Etching (RIE): A plasma-based etching process used in microfabrication to produce high aspect ratio structures with vertical sidewalls. 
+
+ 
+
+Recrystallization: A process by which deformed grains are replaced by a new set of undeformed grains that nucleate and grow until the original grains are consumed, often used to improve ductility and remove hardening effects from cold working. 
+ 
+Redox Reactions: Chemical reactions involving the transfer of electrons between two species, affecting the oxidation state of the atoms, commonly utilized in corrosion processes and energy storage devices. 
+
+ 
+
+Refractory Materials: Materials that are resistant to high temperatures and harsh conditions, used in furnaces, kilns, and reactors where materials are subjected to high heat. 
+
+ 
+
+Reinforcement Phases: Materials added to a matrix to improve its mechanical properties, such as strength, toughness, and stiffness, typically found in composite materials. 
+
+ 
+
+Resin Transfer Molding (RTM): A molding process where resin is injected into a mold that contains a reinforcing material, used to manufacture complex composite parts with high strength and lightweight properties. 

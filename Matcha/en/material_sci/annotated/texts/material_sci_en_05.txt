@@ -1,0 +1,164 @@
+
+Transparent Conductive Oxides (TCOs): Oxide materials that are transparent to visible light and conduct electricity, used in touch screens, flat-panel displays, and photovoltaic cells. 
+
+ 
+
+Wear Mechanisms: The processes by which material is removed from a surface during relative motion, including abrasion, adhesion, surface fatigue, and erosion. 
+
+ 
+
+Bio-composites: Composite materials made from a biological or renewable matrix and reinforcements, used in environmentally friendly applications. 
+
+ 
+
+Carbon Fiber Reinforced Plastic (CFRP): A composite material consisting of carbon fibers embedded in a plastic resin, offering high strength, stiffness, and lightweight, used in aerospace, automotive, and sports equipment. 
+
+ 
+
+Ceramic Coatings: Thin films of ceramic material deposited on a substrate to provide protective properties such as wear, corrosion resistance, and thermal insulation. 
+
+ 
+
+Cold Welding: A solid-state welding process that joins two pieces of metal without the application of heat, relying on pressure to cause atomic bonds between the materials. 
+
+ 
+
+Conductive Inks: Inks that contain conductive materials, such as silver or carbon, used to create electrical circuits and components on various substrates, including paper and textiles. 
+
+ 
+
+Cryo-milling: A milling process conducted at cryogenic temperatures to prevent heat buildup and reduce the grain size of the material, enhancing its mechanical properties. 
+
+ 
+
+Crystal Plasticity Finite Element Method (CPFEM): A computational approach used to simulate the deformation behavior of crystalline materials at the microstructural level, considering the crystallographic orientation of grains. 
+
+ 
+
+Digital Twin Technology in Materials Science: The creation of a digital replica of a material or material process that can simulate, predict, and optimize the performance and behavior of the material in the real world. 
+ 
+Direct Write Technologies: A group of fabrication processes that create patterns or structures directly on substrates without masks, commonly used in electronics manufacturing for circuits and sensors. 
+
+ 
+
+Electrically Conductive Adhesives (ECAs): Adhesives that conduct electricity, used in electronic assemblies to connect components electrically and mechanically, offering an alternative to soldering. 
+
+ 
+
+Electrophoretic Deposition: A coating process that uses an electric field to deposit charged particles onto a substrate, widely used for applying materials to electrically conductive surfaces in a controlled manner. 
+
+ 
+
+Flexible Substrates: Materials that are bendable and can support the deposition of electronic, optical, or other functional elements, enabling the creation of flexible electronic devices. 
+
+ 
+
+Gas Phase Synthesis of Nanoparticles: A method for producing nanoparticles by reacting gases in a controlled environment, allowing for the synthesis of nanoparticles with specific properties. 
+
+ 
+
+High-strain-rate Testing: The evaluation of material behavior under rapid deformation, important for understanding the performance of materials in high-speed impacts or explosions. 
+
+ 
+
+Hydrogel Materials: Soft, water-absorbing polymers that can retain a significant amount of water while maintaining their structure, used in biomedical applications, contact lenses, and as moisture-retentive soil additives. 
+
+ 
+
+Inkjet Printing of Functional Materials: The use of inkjet technology to deposit materials with specific functionalities, such as conductive inks or biologically active substances, onto substrates in a patterned manner. 
+
+ 
+
+Interfacial Engineering: The modification and control of interfaces between different materials or phases to improve the compatibility, stability, and performance of composite materials or devices. 
+
+ 
+
+Ionic Liquids in Materials Processing: The use of ionic liquids, which are salts with low melting points, in materials synthesis and processing due to their unique solvation properties and thermal stability. 
+
+ 
+
+Laser Powder Bed Fusion (LPBF): An additive manufacturing technique where a laser selectively fuses regions of a powder bed to build parts layer by layer, commonly used with metals. 
+
+ 
+
+Low-k Dielectric Materials: Materials with a low dielectric constant, used in semiconductor manufacturing to reduce capacitive coupling between interconnects, improving speed and reducing power consumption. 
+
+ 
+
+Magnetic Shape Memory Alloys: Alloys that change shape in response to a magnetic field due to the rearrangement of their crystal structure, used in actuators and sensors. 
+
+ 
+
+Mechanochemical Synthesis: A process that induces chemical reactions between solid-state compounds through mechanical energy, such as grinding, without the need for solvents or high temperatures. 
+
+ 
+
+Metal Organic Vapor Phase Epitaxy (MOVPE): A method for depositing crystalline layers to manufacture semiconductor materials by reacting metalorganic precursors with hydrides or other gases. 
+
+ 
+
+Microfluidic Materials: Materials used to fabricate microfluidic devices, which manipulate small volumes of fluids, crucial for applications in chemical analysis, biological research, and diagnostics. 
+
+ 
+
+Nano-engineered Coatings: Thin films engineered at the nanoscale to provide specific properties, such as corrosion resistance, hydrophobicity, or enhanced conductivity, to surfaces. 
+
+ 
+
+Nanoscale Additive Manufacturing: The process of creating objects at the nanometer scale using additive manufacturing techniques, allowing for the fabrication of structures with nanometer precision. 
+
+ 
+
+Nonlinear Optical Materials: Materials that exhibit nonlinear responses to optical fields, meaning the polarization response is not directly proportional to the optical field intensity, used in lasers and optical switches. 
+
+ 
+
+Organic Light-Emitting Diodes (OLED) Materials: Materials used in OLEDs, which emit light in response to an electric current, offering advantages in display technology such as high contrast ratios and flexibility. 
+
+ 
+
+Phase Field Modeling: A computational modeling technique that simulates the evolution of microstructures in materials by solving phase field equations, used to predict grain growth, phase transformations, and other phenomena. 
+
+ 
+
+Photonic Crystals: Structures with a periodic optical nanostructure that affect the motion of photons, used to control light in a variety of applications, including optical fibers and sensors. 
+
+ 
+
+Piezoelectric Ceramics: Ceramics that generate an electric charge in response to mechanical stress and vice versa, used in sensors, actuators, and energy harvesting devices. 
+
+ 
+
+Polymer Nanocomposites: Composites that combine a polymer matrix with nanoscale fillers, resulting in improved mechanical, thermal, or electrical properties compared to the base polymer. 
+
+ 
+
+Quantum Materials: Materials that exhibit properties defined by quantum mechanics, such as superconductivity, topological insulators, and quantum hall effects, promising for new technologies and devices. 
+
+ 
+
+Rapid Sintering Techniques: Methods that significantly accelerate the sintering process of materials, such as spark plasma sintering, enabling faster production of dense materials with fine microstructures. 
+
+ 
+
+Self-healing Materials: Materials that have the ability to automatically repair damage without external intervention, extending their lifetime and enhancing their performance. 
+
+ 
+
+Silicon Carbide (SiC) Semiconductors: A semiconductor material that offers high temperature, high power, and high-frequency capabilities, used in power devices and high-performance electronics. 
+
+ 
+
+Supercapacitor Materials: Materials used in supercapacitors, which store energy through electrostatic mechanisms, offering rapid charging and discharging capabilities compared to traditional batteries. 
+
+ 
+
+Surface Acoustic Wave (SAW) Devices: Devices that utilize acoustic waves traveling along the surface of materials to process signals, used in filters, oscillators, and sensors. 
+
+ 
+
+Thermal Interface Materials (TIMs): Materials placed between two surfaces to enhance thermal transfer, critical in electronic devices for managing heat dissipation. 
+
+ 
+
+Ultrahigh Temperature Ceramics (UHTCs): Ceramics that can withstand extremely high temperatures, used in aerospace applications, such as spacecraft re-entry shields and hypersonic flight vehicles. 

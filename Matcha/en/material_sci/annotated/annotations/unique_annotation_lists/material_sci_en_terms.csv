@@ -1,0 +1,948 @@
+Words;Status
+3d printing;Term
+3d printing materials;Term
+3d printing technology;Term
+4d printing;Term
+abrasion;Term
+abrasive;Term
+abrasive wear;Term
+absorb energy;Term
+absorption;Term
+acoustic emission testing;Term
+acoustic waves;Term
+actuators;Term
+additive manufacturing;Term
+adhesion;Term
+adhesive wear;Term
+adhesives;Term
+advanced ceramics;Term
+aerospace;Term
+aging;Term
+Agop;Named Entity
+air;Term
+Al2O3;Term
+ALD;Abb
+alloy;Term
+alloying elements distribution;Term
+alloys;Term
+aluminum;Term
+aluminum oxide;Term
+amorphous metals;Term
+anisotropy;Term
+annealing;Term
+anode;Term
+aqueous environment;Term
+atmosphere;Term
+atomic layer deposition;Term
+atoms;Term
+austenite;Term
+austenitizing;Term
+automotive;Term
+bainite;Term
+ball mill;Term
+basalt;Term
+batteries;Term
+bendable;Term
+bending;Term
+big data;Term
+bio-composites;Term
+bio-lubricants;Term
+bio-tribology;Term
+bioactive glasses;Term
+biochar;Term
+biocompatible;Term
+biodegradable;Term
+biodegradable polymers;Term
+biological;Term
+biological activity;Term
+biological systems;Term
+biological tissues;Term
+biologically active substances;Term
+biomaterials;Term
+biomedical;Term
+biomedical implants;Term
+biotribology;Term
+boiling point;Term
+boundary lubrication;Term
+brazing;Term
+brittle;Term
+brittleness;Term
+building exteriors;Term
+bulk metallic glasses;Term
+CAD;Abb
+calorimetry;Term
+capacitive coupling;Term
+capacitors;Term
+carbamide;Term
+carbamide electrolyte;Term
+carbide;Term
+carbide phase;Term
+carbide phases;Term
+carbides;Term
+carbides particles;Term
+carbon;Term
+carbon atoms;Term
+carbon fiber reinforced plastic;Term
+carbon fibers;Term
+carbon nanotubes;Term
+carburizing;Term
+casting;Term
+catalysis;Term
+cathode;Term
+cellular structure;Term
+cementite;Term
+ceramic;Term
+ceramic coatings;Term
+ceramic fibers;Term
+ceramic matrix;Term
+ceramic matrix composites;Term
+ceramics;Term
+CFRP;Abb
+Chacón;Named Entity
+Charles-Augustin de Coulomb;Named Entity
+chemical;Term
+chemical analysis;Term
+chemical reactions;Term
+chemical vapor deposition;Term
+chemical wear;Term
+chemical-thermal treatment;Term
+chemicals;Term
+chemistry;Term
+chromium;Term
+cladding;Term
+CMCs;Abb
+CNTs;Abb
+coating;Term
+coating adhesion;Term
+coatings;Term
+cold rolling;Term
+cold spray technology;Term
+cold welding;Term
+cold working;Term
+colloidal solution;Term
+composite materials;Term
+compounds;Term
+compression;Term
+compressive;Term
+computer-aided design;Term
+conduct heat;Term
+conducting polymers;Term
+conductive inks;Term
+conductive materials;Term
+conductivity;Term
+conductor;Term
+copper;Term
+corrode;Term
+corrosion;Term
+corrosion resistance;Term
+corrosion-resistant;Term
+corrosive wear;Term
+CPFEM;Abb
+cracks;Term
+creep;Term
+creep resistance;Term
+critical resolved shear stress;Term
+CRSS;Abb
+crucial;Term
+cryo-milling;Term
+cryogenic temperatures;Term
+cryogenic treatment;Term
+crystal;Term
+crystal growth;Term
+crystal lattice;Term
+crystal plasticity finite element method;Term
+crystal structure;Term
+crystal structures;Term
+crystalline;Term
+crystalline layers;Term
+crystalline material;Term
+crystalline solids;Term
+crystalline structure;Term
+crystalline substance;Term
+crystallites;Term
+crystallographic structure;Term
+crystallographic texture;Term
+crystals;Term
+cubic crystal structure;Term
+cutting tools;Term
+CVD;Abb
+cylindrical nanostructures;Term
+data topology;Term
+David Tabor;Named Entity
+DBTT;Abb
+defects;Term
+definitions electrolyte plasma nitriding;Term
+deformation;Term
+deformation mechanisms;Term
+deformed;Term
+deformed grains;Term
+dendritic solidification;Term
+density;Term
+density functional theory;Term
+dental implants;Term
+deposited;Term
+desiccation;Term
+detonation nanostructures coating;Term
+detonation spraying behavior;Term
+detonation waves;Term
+DFT;Abb
+diamond;Term
+DIC;Abb
+dielectric constant;Term
+dielectric materials;Term
+diffraction patterns;Term
+diffusion;Term
+diffusion bonding;Term
+diffusion saturation process;Term
+digital image correlation;Term
+digital twin technology in materials science;Term
+dimension;Term
+direct metal laser sintering;Term
+direct write technologies;Term
+dislocation density;Term
+dislocation dynamics;Term
+dislocation hardening;Term
+dislocation substructures;Term
+dislocations;Term
+disposal;Term
+divertor candidate materials;Term
+DMA;Abb
+DMLS;Abb
+doping;Term
+drill bits;Term
+ductile;Term
+ductile-to-brittle transition temperature;Term
+ductility;Term
+dynamic mechanical analysis;Term
+EBSD;Abb
+ECAs;Abb
+Echávarri;Named Entity
+eddy current testing;Term
+EDS;Abb
+EDX;Abb
+EIS;Abb
+elastic;Term
+elasticity;Term
+electric charge;Term
+electric current;Term
+electric field;Term
+electric polarization;Term
+electrical;Term
+electrical conductivity;Term
+electrical fields;Term
+electrical impedance;Term
+electrical voltage;Term
+electrically conductive adhesives;Term
+electricity;Term
+electrochemical;Term
+electrochemical impedance spectroscopy;Term
+electrocorundum abrasive;Term
+electrolyte plasma nitriding;Term
+electrolytic;Term
+electrolytic-plasma nitriding;Term
+electromagnetic fields;Term
+electromagnetic induction;Term
+electromagnetic radiation;Term
+electromagnetic shielding;Term
+electromechanical;Term
+electron;Term
+electron and ion beams;Term
+electron backscatter diffraction;Term
+electron beam processing;Term
+electron microscopy;Term
+electron probe microanalysis;Term
+electronic;Term
+electronic assemblies;Term
+electronic structure;Term
+electronic textiles;Term
+electronics;Term
+electrons;Term
+electrophoretic deposition;Term
+electrospinning;Term
+electrostatic force;Term
+electrostatic mechanisms;Term
+elemental composition mapping;Term
+elongation;Term
+emit light;Term
+energy;Term
+energy dispersive x-ray spectroscopy;Term
+energy-dispersive x-ray spectroscopy;Term
+engineering;Term
+EPMA;Abb
+erosion;Term
+eutectic systems;Term
+fabric;Term
+fabricating;Term
+face-centered;Term
+face-centered cubic iron;Term
+fatigue;Term
+fatigue life;Term
+fcc crystal lattice;Term
+fd3m spatial group;Term
+fe3c;Term
+ferrite;Term
+ferrite-pearlite structure;Term
+ferroelectric materials;Term
+ferromagnetic;Term
+ferromagnetism;Term
+ferrous alloy;Term
+FGMs;Abb
+FIB;Abb
+fiber reinforced composites;Term
+fibers;Term
+filler metal;Term
+film;Term
+filtration;Term
+fine-grained microstructure;Term
+fire resistance;Term
+flat-panel displays;Term
+flaws;Term
+flexible displays;Term
+flexible electronics materials;Term
+flexible substrates;Term
+fluid;Term
+fluid film;Term
+fluids;Term
+fluorescence;Term
+focused ion beam (fib) milling;Term
+forging;Term
+fourth dimension;Term
+fractal dimension;Term
+fractography;Term
+fracture mechanics;Term
+fracturing;Term
+Frank Philip Bowden;Named Entity
+frequencies;Term
+friction;Term
+functionally graded materials;Term
+fusion energy;Term
+fusion reactions;Term
+fusion reactor materials;Term
+fusion reactors;Term
+galvanic corrosion;Term
+gamma rays;Term
+gas;Term
+gas phase synthesis of nanoparticles;Term
+gas stream;Term
+gases;Term
+glass transition temperature;Term
+glasses;Term
+glassy;Term
+gradient coatings;Term
+grain;Term
+grain boundaries;Term
+grain boundary engineering;Term
+grain growth;Term
+grain growth inhibitors;Term
+grain refinement;Term
+grains;Term
+graphene;Term
+graphite;Term
+green tribology;Term
+grinding;Term
+Guerra;Named Entity
+Guillaume Amontons;Named Entity
+hall-petch relationship;Term
+hardening;Term
+hardness;Term
+hardness testing;Term
+Hasan;Named Entity
+HEAs;Abb
+heat;Term
+heat capacity;Term
+heat dissipation;Term
+heat energy;Term
+heat resistance;Term
+heat treatment;Term
+heat treatments;Term
+heat-resistance;Term
+heat-treated;Term
+helium;Term
+helium plasma;Term
+helium plasma exposure;Term
+high carbon steels;Term
+high entropy alloys;Term
+high-energy ions;Term
+high-intensity laser pulse;Term
+high-speed steel;Term
+high-speed steels;Term
+high-strain-rate testing;Term
+high-temperature superconductors;Term
+high-throughput materials discovery;Term
+HIP;Abb
+hip joints;Term
+Hirani;Named Entity
+honeycomb lattice;Term
+hot isostatic pressing;Term
+HSS;Abb
+hydrides;Term
+hydrodynamic lubrication;Term
+hydrogel materials;Term
+hydrophobicity;Term
+hydrothermal synthesis;Term
+image;Term
+impact toughness;Term
+impedance spectroscopy;Term
+implantation;Term
+impurities;Term
+inclusion analysis;Term
+indentation;Term
+indentation hardness;Term
+indenter;Term
+induction hardening;Term
+Industrial Revolution;Named Entity
+inert gases;Term
+infrared light;Term
+infrared spectroscopy;Term
+injection molding;Term
+inkjet;Term
+inkjet printing of functional materials;Term
+insulating materials;Term
+insulation;Term
+insulation material;Term
+interconnects;Term
+interfacial engineering;Term
+intergranular corrosion;Term
+intermetallic compounds;Term
+internal stresses;Term
+internet of things;Term
+ion beams;Term
+ion effects on materials;Term
+ion implantation;Term
+ionic liquids;Term
+ionic liquids in materials processing;Term
+ionized;Term
+ionized gas;Term
+ions;Term
+IoT;Abb
+iron;Term
+iron carbide;Term
+irradiation;Term
+isothermal transformation;Term
+Jost;Named Entity
+joule heating;Term
+kinetic energy;Term
+kinetic friction;Term
+kinetic monte carlo simulation;Term
+lamellar and packet martensite;Term
+lamellar martensite;Term
+laser;Term
+laser beams;Term
+laser cladding;Term
+laser machining;Term
+laser peening;Term
+laser powder bed fusion;Term
+laser-induced breakdown spectroscopy;Term
+lasers;Term
+lattice curvature-torsion;Term
+laws of friction;Term
+LCPs;Abb
+lead;Term
+lead-free solders;Term
+led;Term
+Leonardo da Vinci;Named Entity
+LIBS;Abb
+light;Term
+light emitted;Term
+light microscopes;Term
+light microscopy;Term
+light-sensitive chemical photoresist;Term
+lightweight alloys;Term
+liquid;Term
+liquid crystal polymers;Term
+liquid interface;Term
+liquid metals;Term
+liquid nitrogen;Term
+liquids;Term
+low-k dielectric materials;Term
+LPBF;Abb
+lubricant;Term
+lubricants;Term
+lubrication;Term
+lubrication systems;Term
+luminescence;Term
+luminescent materials;Term
+Lăpuşteanu;Named Entity
+m6 c-type carbide;Term
+machine learning;Term
+maglev trains;Term
+magnesium;Term
+magnesium alloys;Term
+magnetic field;Term
+magnetic materials;Term
+magnetic resonance imaging;Term
+magnetic shape memory alloys;Term
+magnetism;Term
+magnetization;Term
+magnetostriction;Term
+malleable materials;Term
+Manini;Named Entity
+martensite;Term
+martensite laths;Term
+martensite phase components;Term
+martensitic structure;Term
+martensitic transformation;Term
+mass;Term
+material;Term
+material fatigue;Term
+materials;Term
+materials science;Term
+Mathia;Named Entity
+matrix;Term
+matrix material;Term
+matter;Term
+mc-type carbide;Term
+mechanical;Term
+mechanical alloying;Term
+mechanical energy;Term
+mechanical engineering;Term
+mechanical stress;Term
+mechanical testing;Term
+mechanochemical synthesis;Term
+medical implants;Term
+melt;Term
+melting;Term
+melting point;Term
+melting points;Term
+membrane technology;Term
+memory devices;Term
+MEMS;Abb
+metal;Term
+metal foams;Term
+metal injection molding;Term
+metal lattice;Term
+metal matrix;Term
+metal matrix composites;Term
+metal organic vapor phase epitaxy;Term
+metallic glasses;Term
+metallography;Term
+metalorganic precursors;Term
+metals;Term
+metalworking;Term
+metastable phases;Term
+micro milling;Term
+micro-electromechanical systems;Term
+microalloying;Term
+microelectromechanical systems;Term
+microfabrication;Term
+microfluidic devices;Term
+microfluidic materials;Term
+microhardness;Term
+micromachining;Term
+microprobe analysis;Term
+microscopic;Term
+microscopic structure;Term
+microscopy;Term
+microstructural;Term
+microstructure;Term
+microstructure evolution;Term
+microtensile testing;Term
+microwave;Term
+microwave sintering;Term
+MIM;Abb
+mineral wool insulation;Term
+mixed lubrication;Term
+mixtures;Term
+MMCs;Abb
+MOFs;Abb
+moisture-retentive;Term
+mold;Term
+molding process;Term
+molecular;Term
+molecular vibrations;Term
+molecules;Term
+molybdenum;Term
+molybdenum disulfide;Term
+monocrystalline carbides;Term
+monomers;Term
+MoS2;Abb
+MOVPE;Abb
+MRI;Abb
+nano-engineered coatings;Term
+nano-tribology;Term
+nanocomposites;Term
+nanoelectromechanical systems;Term
+nanofibers;Term
+nanofriction;Term
+nanoimprint lithography;Term
+nanolithography;Term
+nanometer-scale patterns;Term
+nanoparticles;Term
+nanoscale additive manufacturing;Term
+nanoscale fillers;Term
+nanoscale friction;Term
+nanoscale materials;Term
+nanotechnology;Term
+nanowires;Term
+natural lubrication systems;Term
+NDT;Abb
+near net shape manufacturing;Term
+NEMS;Abb
+neutron absorption;Term
+neutron damage;Term
+neutron irradiation;Term
+nickel;Term
+nitriding;Term
+nitrogen;Term
+nitrogen martensite;Term
+non-destructive testing;Term
+non-metallic;Term
+non-stick coating;Term
+non-toxic;Term
+nonlinear optical materials;Term
+Nosonovsky;Named Entity
+nuclear reactors;Term
+ohmic heating;Term
+oils;Term
+OLED;Abb
+OLEDs;Abb
+optical;Term
+optical coatings;Term
+optical fibers;Term
+optical field;Term
+optical fields;Term
+optical microscopy;Term
+optical switches;Term
+organic ligands;Term
+organic light-emitting diodes;Term
+organic light-emitting diodes (oled) materials;Term
+organometallic frameworks;Term
+orientation distribution;Term
+oscillators;Term
+oxidation;Term
+oxidation resistance;Term
+oxidation state;Term
+oxidative stability;Term
+oxide;Term
+oxide coatings;Term
+oxide layer;Term
+oxygen;Term
+packet martensite;Term
+Paleu;Named Entity
+paramagnetism;Term
+particle accelerators;Term
+particle reinforced composites;Term
+passivation;Term
+pearlite;Term
+PECVD;Abb
+PEO;Abb
+permeability;Term
+Peter Jost;Named Entity
+petroleum;Term
+phase composition;Term
+phase composition analysis;Term
+phase field modeling;Term
+phosphorescence;Term
+photolithography;Term
+photomask;Term
+photonic crystals;Term
+photons;Term
+photopolymer resin;Term
+photovoltaic cells;Term
+photovoltaic materials;Term
+physical;Term
+physical vapor deposition;Term
+physics;Term
+piezoelectric ceramics;Term
+piezoelectric materials;Term
+plasma;Term
+plasma cutting;Term
+plasma detachment;Term
+plasma electrolytic oxidation;Term
+plasma enhanced chemical vapor deposition;Term
+plasma flows;Term
+plasma generation;Term
+plasma technology;Term
+plasma-based etching;Term
+plasma-facing material;Term
+plasma-surface interactions;Term
+plastic;Term
+plastic deformation;Term
+plastic resin;Term
+plastically deform;Term
+plastics;Term
+polarization response;Term
+polarized;Term
+polycrystalline carbides;Term
+polycrystalline material;Term
+polymer;Term
+polymer blends;Term
+polymer matrix;Term
+polymer nanocomposites;Term
+polymer solution;Term
+polymerization;Term
+polymers;Term
+porosity;Term
+porous materials;Term
+positive ions;Term
+powder metallurgy;Term
+powdered material;Term
+powdered metal;Term
+power cables;Term
+power electronics;Term
+precipitation hardening;Term
+predictive analytics;Term
+Prem Ananth.M;Named Entity
+pressing;Term
+pressure;Term
+profilometry;Term
+PVD;Abb
+pyrolysis;Term
+quantitative elemental analysis;Term
+quantum;Term
+quantum computing;Term
+quantum dots;Term
+quantum hall effects;Term
+quantum materials;Term
+quantum mechanical;Term
+quantum mechanics;Term
+quantum tunneling;Term
+quenching;Term
+R6M5;Abb
+radiation;Term
+radiography;Term
+rapid prototyping;Term
+rapid sintering techniques;Term
+reactive ion etching;Term
+recrystallization;Term
+redox reactions;Term
+refractory materials;Term
+REI;Abb
+reinforcement;Term
+reinforcement phases;Term
+reinforcing material;Term
+renewable energy;Term
+renewable energy generation;Term
+renewable matrix;Term
+renewable sources;Term
+residual austenite;Term
+resin;Term
+resin transfer molding;Term
+resistance;Term
+resistive;Term
+rheology;Term
+Richard Stribeck;Named Entity
+rie;Term
+rolling;Term
+rolling friction;Term
+roughness;Term
+RTM;Abb
+rubbery;Term
+Sagbas;Named Entity
+salts;Term
+sand;Term
+SAW;Abb
+scaffolding materials;Term
+scalar and excess dislocation density;Term
+scalar dislocation density;Term
+scanning electron microscopy;Term
+scanning tunneling microscopy;Term
+SCC;Abb
+scuffing;Term
+segregation;Term
+self-healing materials;Term
+SEM;Abb
+semiconductor;Term
+semiconductor devices;Term
+semiconductor material;Term
+semiconductors;Term
+sensors;Term
+shape memory alloys;Term
+SiC;Abb
+silica;Term
+silica aerogels;Term
+silicon carbide (sic) semiconductors;Term
+sinter;Term
+sintering;Term
+SLA;Abb
+slag;Term
+sliding friction;Term
+slip;Term
+slip systems;Term
+SMAs;Abb
+soft solids;Term
+softening;Term
+soil;Term
+sol;Term
+sol-gel process;Term
+solar cells;Term
+solar panels;Term
+soldering;Term
+solid;Term
+solid carbide m6c;Term
+solid lubricant;Term
+solid materials;Term
+solid solution strengthening;Term
+solid structure;Term
+solid surface;Term
+solid-state;Term
+solid-state compounds;Term
+solid-state welding;Term
+solidification;Term
+solidifies;Term
+solids;Term
+solute;Term
+solvents;Term
+sound waves;Term
+space;Term
+space group symmetry;Term
+space tribology;Term
+spark plasma sintering;Term
+spatial;Term
+spectroscopy;Term
+spherical;Term
+spherical carbides;Term
+Spikes;Named Entity
+spinodal decomposition;Term
+SPS;Abb
+sputtering;Term
+square-based diamond pyramid;Term
+stainless steel;Term
+stainless steels;Term
+static friction;Term
+steel;Term
+steel alloys;Term
+steels;Term
+stereolithography;Term
+stiffness;Term
+STM;Abb
+stone;Term
+strain;Term
+strength;Term
+strength-to-weight ratio;Term
+stress;Term
+stress corrosion cracking;Term
+stress-augmented thermal activation;Term
+stretchable;Term
+Stribeck Curve;Named Entity
+structural restructuring;Term
+structural-phase states;Term
+structure;Term
+structures;Term
+substances;Term
+substrate;Term
+supercapacitor materials;Term
+supercapacitors;Term
+superconducting materials;Term
+superconductivity;Term
+superplastic forming;Term
+superplasticity;Term
+surface acoustic wave;Term
+surface fatigue;Term
+surface irradiation;Term
+surface modification;Term
+surface plasmon resonance;Term
+surface roughness;Term
+surface roughness measurement;Term
+surface tension;Term
+surface treatment process;Term
+suspension polymerization;Term
+synthesis;Term
+synthetic lubricants;Term
+TBCs;Abb
+TCOs;Abb
+TEM;Abb
+temperature resistance;Term
+temperature-sensitive materials;Term
+temperatures;Term
+tempered;Term
+tempered martensite;Term
+tensile strength;Term
+tensile stress;Term
+tensile testing;Term
+tension;Term
+textiles;Term
+texture;Term
+textures;Term
+TGA;Abb
+thermal;Term
+thermal analysis;Term
+thermal barrier coatings;Term
+thermal conductivity;Term
+thermal decomposition;Term
+thermal expansion;Term
+thermal insulation;Term
+thermal interface materials;Term
+thermal loads;Term
+thermal management;Term
+thermal stability;Term
+thermal stress;Term
+thermal stresses;Term
+thermo-mechanical treatment;Term
+thermoelectric materials;Term
+thermogravimetric analysis;Term
+thermomechanical processing;Term
+thin film;Term
+thin film deposition;Term
+thin films;Term
+thin-film deposition;Term
+three-dimensional;Term
+TIMs;Abb
+tissue engineering;Term
+tissue engineering scaffolds;Term
+tissue regeneration;Term
+titanium;Term
+titanium alloys;Term
+TMT;Abb
+tool steels;Term
+topography;Term
+topological insulators;Term
+torsion;Term
+touch screens;Term
+toughness;Term
+toxic;Term
+transmission electron microscopy;Term
+transparent conductive oxides;Term
+tribochemical reactions;Term
+tribochemistry;Term
+triboinformatics;Term
+tribological;Term
+tribology;Term
+tungsten;Term
+tungsten surface erosion;Term
+tungsten-molybdenum steels;Term
+twinning;Term
+twisting;Term
+Tysoe;Named Entity
+UHTCs;Abb
+ultimate tensile strength;Term
+ultrahigh temperature ceramics;Term
+ultrasonic testing;Term
+urea;Term
+vacuum;Term
+vacuum brazing;Term
+Vakis;Named Entity
+vanadium;Term
+vapor phase epitaxy;Term
+vickers hardness test;Term
+Vijay.V;Named Entity
+viscoelasticity;Term
+viscosity;Term
+viscous;Term
+visible light;Term
+voltages;Term
+VPE;Abb
+water;Term
+water-absorbing polymers;Term
+wear;Term
+wear mechanisms;Term
+wear resistance;Term
+wear-resistant coatings;Term
+wearable sensors;Term
+welding;Term
+welding metallurgy;Term
+wettability;Term
+wetting angle;Term
+wide bandgap semiconductors;Term
+wind turbines;Term
+Wojciechowski;Named Entity
+x-ray diffraction;Term
+x-ray diffraction (xrd) analysis;Term
+x-ray irradiation;Term
+x-ray photoelectron spectroscopy;Term
+x-rays;Term
+XPS;Abb
+XRD;Abb
+yield strength;Term
+zirconium;Term
+zirconium alloys;Term
