@@ -1,0 +1,29 @@
+Article 3 (https://blockchain.news/news/crypto-drainers-threat-bitcoin-cryptocurrencies) 
+
+Crypto Drainers: The Rising Threat to Bitcoin (BTC) and Other Cryptocurrencies 
+
+A deep dive into the increasing threat of crypto drainers to Bitcoin and other cryptocurrencies, highlighting ways to avoid falling victim. 
+
+Zach Anderson 
+
+May 17, 2024 02:40 
+
+Overview of Crypto Drainers 
+
+As the cryptocurrency market continues to evolve, so do the tactics employed by malicious actors to steal user funds. The latest threat, crypto drainers, has been gaining prevalence in recent years. In contrast to more conventional methods such as private key theft and smart contract exploitation, drainers pose as web3 projects to trick victims into granting them control of their crypto wallets. These scams have affected a wide range of users, with even high-profile figures like Mark Cuban and Seth Green falling prey. The amounts stolen can be staggering, with some drainers reportedly siphoning off several million dollars from their victims. Recently, Chainalysis shared insights into details of Crypto Drainers. 
+
+Understanding How Crypto Drainers Operate 
+
+A crypto drainer is essentially a phishing tool designed for the web3 ecosystem. Instead of stealing usernames and passwords, the operators of these scams masquerade as legitimate web3 projects. They lure victims into connecting their crypto wallets to the drainer and approving transaction proposals, which effectively grant the scammers control of the funds in the victims' wallets. Following a successful attack, the drainers can instantly steal users' funds. The fraudulent web3 sites are often promoted in Discord communities and on compromised social media accounts. 
+
+The Impact of Crypto Drainers on the Crypto Ecosystem 
+
+While it is challenging to ascertain the total amount stolen by crypto drainers due to underreporting, the available data suggests that the scale of these scams is significant. In fact, the quarterly growth rate in value stolen by drainers has outpaced that of ransomware, another fast-growing category of cybercrime. After stealing digital assets, the criminals typically rely on various crypto services to launder the funds or convert them into cash. There has been a noticeable increase in funds sent by drainers to mixing services since 2021, while the funds sent to centralized exchanges have decreased. Some drainers are also using gambling services, albeit on a smaller scale. 
+
+Bitcoin's Encounter with Crypto Drainers 
+
+While most drainers currently operate within the Ethereum ecosystem, an unusual drainer exploiting the Bitcoin blockchain has been identified. This drainer created a fake web page posing as Magic Eden, the primary NFT platform for Bitcoin Ordinals. As of April 2024, this drainer has allegedly stolen approximately $500,000 in over 1,000 malicious transactions. Despite Bitcoin not being as widely used for web3 services as other assets, several other Bitcoin drainers have already targeted the Ordinals trading community. 
+
+Preventing Crypto Drainer Attacks 
+
+As the operators of crypto drainers become increasingly sophisticated, it is crucial for web3 projects and users to implement various security measures to guard against these scams. Web3 security extensions such as Wallet Guard can identify phishing pages and websites, and assess security risks associated with cryptocurrency wallets. Users can also reduce their exposure to drainers by using an offline wallet to store valuable or large volumes of assets, only transferring funds to a hot wallet when necessary. In addition, they should be wary of links promoted in chat rooms or on social media, which may not be associated with a project's official account. If a user needs to connect to an unfamiliar web3 site, they can create a temporary wallet that doesn't contain any assets and connect it to the site. If a victim's assets are stolen by a drainer, they can cancel incomplete transactions. 

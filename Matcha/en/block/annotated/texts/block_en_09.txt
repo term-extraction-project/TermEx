@@ -1,0 +1,37 @@
+Article 3 (https://www.soldev.app/course/intro-to-writing-data) 
+
+Summary 
+
+All modifications to onchain data happen through transactions. Transactions are mostly a set of instructions that invoke Solana programs. Transactions are atomic, meaning they either succeed - if all the instructions have executed properly - or fail, as if the transaction hasn't been run at all. 
+
+Lesson 
+
+Transactions are atomic 
+
+Any modification to onchain data happens through transactions sent to programs. 
+
+A transaction on Solana is similar to a transaction elsewhere: it is atomic. Atomic means the entire transaction runs or fails. 
+
+Think of paying for something online: 
+
+The balance of your account is debited 
+
+The bank transfers the funds to the merchant 
+
+Both of these things need to happen for the transaction to be successful. If either of them fail, it is better that none of these things happen, rather than pay the merchant and not debit your account, or debit the account but not pay the merchant. 
+
+Atomic means either the transaction happens - meaning all the individual steps succeed - or the entire transaction fails. 
+
+Transactions contain instructions 
+
+The steps within transaction on Solana are called instructions. 
+
+Each instruction contains: 
+
+an array of accounts that will be read from and/or written to. This is what makes Solana fast - transactions that affect different accounts are processed simultaneously 
+
+the public key of the program to invoke 
+
+data passed to the program being invoked, structured as a byte array 
+
+When a transaction is run, one or more Solana programs are invoked with the instructions included in the transaction. 

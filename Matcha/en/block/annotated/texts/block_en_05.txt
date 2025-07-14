@@ -1,0 +1,163 @@
+Artcle 1 (https://blockchain.news/news/bitcoin-displays-potential-stability-amidst-global-economic-uncertainty) 
+
+Bitcoin Displays Potential Stability Amidst Global Economic Uncertainty 
+
+Bitcoin shows signs of stability with increased exchange outflows and ETF inflows, despite ongoing macroeconomic challenges. 
+
+Rebeca Moen 
+
+May 20, 2024 13:37 
+
+Bitcoin's Stability amid Global Economic Challenges 
+
+According to a recent post on Bitfinex Alpha, Bitcoin (BTC) has shown signs of potential stability amidst global economic uncertainty. The cryptocurrency achieved its highest daily close last week since April 12th, following a softer-than-expected Consumer Price Index (CPI) inflation report. BTC was up 7.54% on the day and 8.7% on the week. This increase was further supported by exchange outflows amounting to 55,000 BTC, indicating a supportive market sentiment and reinforcing the view that a bottom for the Bitcoin price has been reached. 
+
+Bitcoin ETFs Witness Net Inflows 
+
+Bitcoin Exchange-Traded Funds (ETFs) also saw net inflows of $948.3 million over the past week, reversing recent weeks of outflows. This trend suggests increased confidence in Bitcoin's stability, particularly as long-term holders maintain their positions and “new whales” accumulate BTC around the $60,000 mark, establishing it as a significant on-chain support level. Even short-term holders (STH), whose portion of the supply has increased from 19% at the beginning of the year to 26.1%, currently have an average cost basis of approximately $61,046, making this an essential level to maintain to avoid triggering sell-offs. 
+
+Global Economic Challenges 
+
+Despite these positive trends in the crypto market, the global economy continues to face challenges. The CPI report for April indicated some signs of disinflation, with a 0.3% month-on-month (MoM) increase and a 3.4% increase year-on-year (YoY). However, the Producer Price Index for April rose by 0.5% due to higher service costs, suggesting persistent inflation. The housing market and manufacturing sector also continue to face challenges, with builder sentiment dropping due to high mortgage rates and industrial production stagnating. 
+
+Crypto Regulation and Market Developments 
+
+On the regulatory front, Türkiye has introduced a legislative proposal to regulate crypto asset transactions. The bill, overseen by the Capital Markets Board, includes a licensing system for crypto firms and expanded regulatory oversight. Meanwhile, Pump.fun, a memecoin launchpad, experienced a $1.9 million exploit, allegedly by a former employee using flash loans. The breach led to a temporary halt in trading, and the platform restored affected liquidity pools within 24 hours. 
+
+Future Outlooks 
+
+The US Securities and Exchange Commission faces imminent deadlines for Ether ETF applications from VanEck and ARK. Approval appears unlikely due to the complexities of Ethereum's technology and ongoing legal uncertainties. The SEC's decisions could set important precedents for other digital assets in public markets. Despite these challenges, the cryptocurrency market continues to evolve, with Bitcoin leading the way in demonstrating potential stability amidst ongoing global economic uncertainty. 
+
+ 
+
+Article 2 (https://blockchain.news/news/bitcoin-displays-potential-stability-amidst-global-economic-uncertainty) 
+
+OKX Ventures Invests in Bitcoin Layer 2 Solution, Bitlayer 
+
+OKX Ventures announces a strategic investment in Bitlayer, a Bitcoin Layer 2 solution based on BitVM. 
+
+Jessie A Ellis 
+
+May 20, 2024 11:41 
+
+OKX Ventures Invests in Bitlayer 
+
+OKX Ventures, the investment arm of the leading crypto exchange and Web3 technology company OKX, has announced a strategic investment in Bitlayer. Bitlayer is the first Bitcoin (BTC) security-equivalent Layer 2 based on BitVM. 
+
+Bitlayer's Aim 
+
+Bitlayer aims to scale the Bitcoin network's transaction capability. The company supports the Taproot and BitVM technologies and has adopted the Discreet Log Contract (DLC) framework. The DLC framework allows Bitlayer to handle more conditional financial applications securely. 
+
+Bitcoin's Dominance 
+
+Over the past 15 years, Bitcoin has dominated 53.4% of the more than 2.28 trillion crypto assets. Ethereum contributed 15.8%, with its Total Value Locked (TVL) exceeding $90 billion. Layer 2 solutions have scaled to $39 billion. The momentum brought by the Ordinals, Runes, and BRC-20 protocols are evident, with Runes and Ordinals reaching a market cap of over $700 million and $33 million, respectively. This equates to approximately $418 million in total fees. Moreover, over 11.39 million active Bitcoin users are seeking diverse interactions within the Bitcoin network. 
+
+Comments from OKX Ventures Founder 
+
+OKX Ventures Founder Dora Yue commented on the investment, 'Bitcoin has won trust through its development philosophy, designed around decentralization, trustlessness, and pseudonymity to maintain user privacy. OKX Ventures supports Bitcoin scaling specifically through vertical, horizontal, inward, and layered scaling in past investment portfolios. Bitlayer addresses the two main challenges in Bitcoin Layer 2: L1 verification and a trustless bridge. This is achieved by contributing to the BitVM community and project. Since the launch of Bitlayer Mainnet V1, it has accumulated $179,600 in fees last month and now also supports multiple bridges between Bitlayer and other Layer 1 chains, including Bitcoin/EVM chains. We look forward to seeing more Bitcoin amplifications like NFTs and other liquidity assets produced on Bitlayer.' 
+
+About Bitlayer 
+
+Bitlayer is the first Bitcoin Layer 2 solution based on the BitVM paradigm. Bitlayer's core objective is to address the trade-off between security (trustlessness) and Turing completeness in BTC layer 2 through cryptographic innovations and blockchain protocol engineering. Bitlayer is committed to becoming the computation layer for Bitcoin, aiming to introduce ultra-scalability to Bitcoin while inheriting its security, providing users with a high-throughput, low-cost transaction experience. 
+
+About OKX Ventures 
+
+OKX Ventures is the investment arm of global leading crypto exchange and Web3 technology company OKX, with an initial capital commitment of USD 100 million. It focuses on exploring the best blockchain projects on a global scale, supporting cutting-edge blockchain technology innovation, promoting the healthy development of the global blockchain industry, and investing in long-term structural value. Through its commitment to supporting entrepreneurs who contribute to the development of the blockchain industry, OKX Ventures helps build innovative companies and brings global resources and historical experience to blockchain projects. 
+
+ 
+
+Article 3 (https://blockchain.news/news/crypto-drainers-threat-bitcoin-cryptocurrencies) 
+
+Crypto Drainers: The Rising Threat to Bitcoin (BTC) and Other Cryptocurrencies 
+
+A deep dive into the increasing threat of crypto drainers to Bitcoin and other cryptocurrencies, highlighting ways to avoid falling victim. 
+
+Zach Anderson 
+
+May 17, 2024 02:40 
+
+Overview of Crypto Drainers 
+
+As the cryptocurrency market continues to evolve, so do the tactics employed by malicious actors to steal user funds. The latest threat, crypto drainers, has been gaining prevalence in recent years. In contrast to more conventional methods such as private key theft and smart contract exploitation, drainers pose as web3 projects to trick victims into granting them control of their crypto wallets. These scams have affected a wide range of users, with even high-profile figures like Mark Cuban and Seth Green falling prey. The amounts stolen can be staggering, with some drainers reportedly siphoning off several million dollars from their victims. Recently, Chainalysis shared insights into details of Crypto Drainers. 
+
+Understanding How Crypto Drainers Operate 
+
+A crypto drainer is essentially a phishing tool designed for the web3 ecosystem. Instead of stealing usernames and passwords, the operators of these scams masquerade as legitimate web3 projects. They lure victims into connecting their crypto wallets to the drainer and approving transaction proposals, which effectively grant the scammers control of the funds in the victims' wallets. Following a successful attack, the drainers can instantly steal users' funds. The fraudulent web3 sites are often promoted in Discord communities and on compromised social media accounts. 
+
+The Impact of Crypto Drainers on the Crypto Ecosystem 
+
+While it is challenging to ascertain the total amount stolen by crypto drainers due to underreporting, the available data suggests that the scale of these scams is significant. In fact, the quarterly growth rate in value stolen by drainers has outpaced that of ransomware, another fast-growing category of cybercrime. After stealing digital assets, the criminals typically rely on various crypto services to launder the funds or convert them into cash. There has been a noticeable increase in funds sent by drainers to mixing services since 2021, while the funds sent to centralized exchanges have decreased. Some drainers are also using gambling services, albeit on a smaller scale. 
+
+Bitcoin's Encounter with Crypto Drainers 
+
+While most drainers currently operate within the Ethereum ecosystem, an unusual drainer exploiting the Bitcoin blockchain has been identified. This drainer created a fake web page posing as Magic Eden, the primary NFT platform for Bitcoin Ordinals. As of April 2024, this drainer has allegedly stolen approximately $500,000 in over 1,000 malicious transactions. Despite Bitcoin not being as widely used for web3 services as other assets, several other Bitcoin drainers have already targeted the Ordinals trading community. 
+
+Preventing Crypto Drainer Attacks 
+
+As the operators of crypto drainers become increasingly sophisticated, it is crucial for web3 projects and users to implement various security measures to guard against these scams. Web3 security extensions such as Wallet Guard can identify phishing pages and websites, and assess security risks associated with cryptocurrency wallets. Users can also reduce their exposure to drainers by using an offline wallet to store valuable or large volumes of assets, only transferring funds to a hot wallet when necessary. In addition, they should be wary of links promoted in chat rooms or on social media, which may not be associated with a project's official account. If a user needs to connect to an unfamiliar web3 site, they can create a temporary wallet that doesn't contain any assets and connect it to the site. If a victim's assets are stolen by a drainer, they can cancel incomplete transactions. 
+
+ 
+
+Article 4 (https://blockchain.news/news/bitcoins-capabilities-to-be-extended-with-new-docking-layer-exsat) 
+
+EOS: Bitcoin's Capabilities to be Extended with New 'Docking Layer' exSat 
+
+The EOS Network Foundation unveils the exSat whitepaper, a powerful new 'Docking Layer' set to extend Bitcoin's capabilities. 
+
+Terrill Dicki 
+
+May 16, 2024 06:54 
+
+EOS Network Foundation Unveils exSat Whitepaper 
+
+The EOS Network Foundation, led by Executive Director and Founder Yves La Rose, has revealed the whitepaper for exSat, a powerful new 'Docking Layer' designed to extend the capabilities of Bitcoin. La Rose, a consensus builder within the EOS ecosystem, has devoted his career to the success of the network. 
+
+La Rose's interest in technology sparked at a young age when he built his first computer and wrote his first program at seven. His fascination with technology was further amplified by the emergence of Bitcoin, which he started mining in 2010 while exploring the potential of decentralized networks. 
+
+From EOS Nation to EOS Network Foundation 
+
+After several years of business planning and analysis experience, La Rose began seriously considering an endeavor in the emerging blockchain industry in 2017. He co-founded EOS Nation in February 2018, which eventually became the top-rated block producer on the most valuable network using EOSIO, the EOS Mainnet. However, in May 2021, La Rose resigned as CEO of EOS Nation to pursue a new path. 
+
+Recognizing his unique position to unite the EOS Network stakeholders around a foundation working for all EOS token holders, La Rose founded the EOS Network Foundation. Since then, he has dedicated himself to benefit the EOS public blockchain and its global stakeholders. 
+
+Introducing exSat: Extending Bitcoin's Capabilities 
+
+The introduction of exSat marks a significant step in advancing Bitcoin's capabilities. The 'Docking Layer' is expected to bring new opportunities for users and further establish the potential of decentralized networks. Details about the potential applications and benefits of exSat will be further revealed in the whitepaper. 
+
+ 
+
+With the launch of exSat, the EOS Network Foundation continues its commitment to the growth and success of the blockchain industry. The foundation continues to work towards unifying the global EOS community through mutual respect and empowerment, echoing La Rose's holistic approach forged from his experiences living and studying in Japan and travelling throughout Asia. 
+
+ 
+
+Article 5 (https://blockchain.news/news/krafton-partners-with-solana-labs-to-develop-blockchain-based-games)  
+
+Krafton Partners with Solana Labs to Develop blockchain-based Games 
+
+Game developer for PC and mobile devices Krafton partners with Solana Labs to develop blockchain-based games and services in the Metaverse world. 
+
+Annie Li 
+
+Mar 28, 2022 09:05 
+
+Krafton Partners with Solana Labs to Develop blockchain-based Games 
+
+Game developer for PC and mobile devices Krafton partners with Solana Labs to develop blockchain-based games and services in the Metaverse world. 
+
+Krafton, stylized as KRAFTON which was formerly known as Bluehole, is a South Korean company that develops and distributes video games based in Bundang-gu, Seongnam. 
+
+The South Korean gaming giant hopes to boost its position in the market by developing a Metaverse "money-making" game using blockchain technology. 
+
+The company even made its wildly popular PUBG game free last year. PUBG is ranked among the top downloaded games on Steam and routinely has close to 10 million active users. 
+
+The lead executive of Web 3.0 Roundtable at Krafton, Hyungchul Park, said in a statement that: 
+
+“As one of the best global high-performance blockchain with strength in high speed and low fees, Solana represents the best of the Web 3.0 ecosystem and its technologies. Through this cooperation, KRAFTON will acquire the insight needed to accelerate its investment in and output of blockchain-based experiences.” 
+
+According to the agreement, KRAFTON and Solana Labs will establish a long-term partnership to develop and operate blockchain and NFT-based games and services. However, Krafton has yet to say whether it will integrate blockchain technology into existing games. 
+
+Compared to Ethereum’s Solidity language when developing play-to-earn (P2E) games, the ease of use of Solana’s building language- Rust will give Solana a competitive edge. 
+
+Solana has already rolled out $400 million to enhance Web3 gaming over the last six months. 
+
+(2182 words)  

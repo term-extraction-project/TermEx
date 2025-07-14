@@ -1,0 +1,35 @@
+Article 2 (https://www.soldev.app/course/intro-to-reading-data) 
+
+Summary 
+
+SOL is the name of Solana’s native token. Each SOL is made from 1 billion Lamports. 
+
+Accounts store tokens, NFTs, programs, and data. For now we’ll focus on accounts that store SOL. 
+
+Addresses point to accounts on the Solana network. Anyone can read the data in a given address. Most addresses are also public keys. 
+
+Lesson 
+
+Accounts 
+
+All data stored on Solana is stored in accounts. Accounts can store: 
+
+SOL 
+
+Other tokens, like USDC 
+
+NFTs 
+
+Programs, like the film review program we make in this course! 
+
+Program data, like a film review for the program above! 
+
+SOL 
+
+SOL is Solana's native token - SOL is used to pay transaction fees, pay rent for accounts, and more. SOL is sometimes shown with the ◎ symbol. Each SOL is made from 1 billion Lamports. 
+
+In the same way that finance apps typically do math in cents (for USD), pence (for GBP), Solana apps typically transfer, spend, store and handle SOL as Lamports, only converting to full SOL to display to users. 
+
+Addresses 
+
+Addresses uniquely identify accounts. Addresses are often shown as base-58 encoded strings like dDCQNnDmNbFVi8cQhKAgXhyhXeJ625tvwsunRyRc7c8. Most addresses on Solana are also public keys. As mentioned in the previous chapter, whoever controls the matching secret key for an address controls the account - for example, the person with the secret key can send tokens from the account. 

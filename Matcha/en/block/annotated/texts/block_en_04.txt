@@ -1,0 +1,285 @@
+Artcle 1 
+
+Summary 
+
+A keypair is a matching pair of public key and secret key. 
+
+The public key is used as an “address” that points to an account on the Solana network. A public key can be shared with anyone. 
+
+The secret key is used to verify authority over the account. As the name suggests, you should always keep secret keys secret. 
+
+@solana/web3.js provides helper functions for creating a brand new keypair, or for constructing a keypair using an existing secret key. 
+
+Lesson 
+
+Symmetric and Asymmetric Cryptography 
+
+'Cryptography' is literally the study of hiding information. There's two main types of cryptography you'll encounter day to day: 
+
+Symmetric Cryptography is where the same key is used to encrypt and decrypt. It's hundreds of years old, and has been used by everyone from the ancient Egyptians to Queen Elizabeth I. 
+
+There's a variety of symmetric cryptography algorithms, but the most common you'll see today are AES and Chacha20. 
+
+Asymmetric Cryptography 
+
+Asymmetric cryptography - also called 'public key cryptography' was developed in the 1970s. In asymmetric cryptography, participants have pairs of keys (or keypairs). Each keypair consists of a secret key and a public key. Asymmetric encryption works differently from symmetric encryption, and can do different things: 
+
+Encryption: if it's encrypted with a public key, only the secret key from the same keypair can be used to read it 
+
+Signatures: if it's encrypted with a secret key, the public key from the same keypair can be used to prove the secret key holder signed it. 
+
+You can even use asymmetric cryptography to work out a good key for symmetric cryptography! This is called key exchange, where you use your public keys and the recipient's public key to come up with a 'session' key. 
+
+There's a variety of asymmetric cryptography algorithms, but the most common you'll see today are variants of ECC or RSA. 
+
+Asymmetric encryption is very popular: 
+
+Your bank card has a secret key inside it that's used to sign transactions. 
+
+Your bank can confirm you made the transaction by checking them with the matching public key. 
+
+Websites include a public key in their certificate. Your browser will use this public key to encrypt the data (like personal information, login details, and credit card numbers) it sends to the web page. 
+
+The website has the matching private key so that the website can read the data. 
+
+Your electronic passport was signed by the country that issued it to ensure the passport isn't forged. 
+
+The electronic passport gates can confirm this using the public key of your issuing country. 
+
+The messaging apps on your phone use key exchange to make a session key. 
+
+In short, cryptography is all around us. Solana, as well as other blockchains, are but one use of cryptography. 
+
+Solana uses public keys as addresses 
+
+Solana wallet addresses 
+
+People participating in the Solana network have at least one keypair. In Solana: 
+
+The public key is used as an “address” that points to an account on the Solana network. Even friendly names - like example.sol - point to addresses like dDCQNnDmNbFVi8cQhKAgXhyhXeJ625tvwsunRyRc7c8 
+
+The secret key is used to verify authority over that keypair. If you have the secret key for an address, you control the tokens inside that address. For this reason, as the name suggests, you should always keep secret keys secret. 
+
+Article 2 (https://www.soldev.app/course/intro-to-reading-data) 
+
+Summary 
+
+SOL is the name of Solana’s native token. Each SOL is made from 1 billion Lamports. 
+
+Accounts store tokens, NFTs, programs, and data. For now we’ll focus on accounts that store SOL. 
+
+Addresses point to accounts on the Solana network. Anyone can read the data in a given address. Most addresses are also public keys. 
+
+Lesson 
+
+Accounts 
+
+All data stored on Solana is stored in accounts. Accounts can store: 
+
+SOL 
+
+Other tokens, like USDC 
+
+NFTs 
+
+Programs, like the film review program we make in this course! 
+
+Program data, like a film review for the program above! 
+
+SOL 
+
+SOL is Solana's native token - SOL is used to pay transaction fees, pay rent for accounts, and more. SOL is sometimes shown with the ◎ symbol. Each SOL is made from 1 billion Lamports. 
+
+In the same way that finance apps typically do math in cents (for USD), pence (for GBP), Solana apps typically transfer, spend, store and handle SOL as Lamports, only converting to full SOL to display to users. 
+
+Addresses 
+
+Addresses uniquely identify accounts. Addresses are often shown as base-58 encoded strings like dDCQNnDmNbFVi8cQhKAgXhyhXeJ625tvwsunRyRc7c8. Most addresses on Solana are also public keys. As mentioned in the previous chapter, whoever controls the matching secret key for an address controls the account - for example, the person with the secret key can send tokens from the account. 
+
+Article 3 (https://www.soldev.app/course/intro-to-writing-data) 
+
+Summary 
+
+All modifications to onchain data happen through transactions. Transactions are mostly a set of instructions that invoke Solana programs. Transactions are atomic, meaning they either succeed - if all the instructions have executed properly - or fail, as if the transaction hasn't been run at all. 
+
+Lesson 
+
+Transactions are atomic 
+
+Any modification to onchain data happens through transactions sent to programs. 
+
+A transaction on Solana is similar to a transaction elsewhere: it is atomic. Atomic means the entire transaction runs or fails. 
+
+Think of paying for something online: 
+
+The balance of your account is debited 
+
+The bank transfers the funds to the merchant 
+
+Both of these things need to happen for the transaction to be successful. If either of them fail, it is better that none of these things happen, rather than pay the merchant and not debit your account, or debit the account but not pay the merchant. 
+
+Atomic means either the transaction happens - meaning all the individual steps succeed - or the entire transaction fails. 
+
+Transactions contain instructions 
+
+The steps within transaction on Solana are called instructions. 
+
+Each instruction contains: 
+
+an array of accounts that will be read from and/or written to. This is what makes Solana fast - transactions that affect different accounts are processed simultaneously 
+
+the public key of the program to invoke 
+
+data passed to the program being invoked, structured as a byte array 
+
+When a transaction is run, one or more Solana programs are invoked with the instructions included in the transaction. 
+
+Article 4 (https://www.soldev.app/course/interact-with-wallets) 
+
+Summary 
+
+Wallets store your secret key and handle secure transaction signing 
+
+Hardware wallets store your secret key on a separate device 
+
+Software wallets use your computer for secure storage 
+
+Software wallets are often browser extensions that facilitate connecting to websites 
+
+Solana’s Wallet-Adapter library simplifies the support of wallet browser extensions, allowing you to build websites that can request a user’s wallet address and propose transactions for them to sign 
+
+Lesson 
+
+Wallets 
+
+In the previous two lessons we discussed keypairs. Keypairs are used to locate accounts and sign transactions. While the public key of a keypair is perfectly safe to share, the secret key should always be kept in a secure location. If a user’s secret key is exposed, then a malicious actor could drain their account of all assets and execute transactions with the authority of that user. 
+
+A “wallet” refers to anything that stores a secret key in order to keep it secure. These secure storage options can generally be described as either “hardware” or “software” wallets. Hardware wallets are storage devices that are separate from your computer. Software wallets are application you can install on your existing device(s). 
+
+Software wallets often come in the form of a browser extension. This makes it possible for websites to interact easily with the wallet. Such interactions are usually limited to: 
+
+Seeing the wallet’s public key (address) 
+
+Submitting transactions for a user's approval 
+
+Sending an approved transaction to the network 
+
+Once a transaction is submitted, the end user can “confirm” the transaction and send it to the network with their “signature.” 
+
+Signing transactions requires using your secret key. By letting a site submit a transaction to your wallet and having the wallet handle the signing, you ensure that you never expose your secret key to the website. Instead, you only share the secret key with the wallet application. 
+
+Unless you’re creating a wallet application yourself, your code should never need to ask a user for their secret key. Instead, you can ask users to connect to your site using a reputable wallet. 
+
+Phantom Wallet 
+
+One of the most widely used software wallets in the Solana ecosystem is Phantom. Phantom supports a few of the most popular browsers and has a mobile app for connecting on the go. You’ll likely want your decentralized applications to support multiple wallets, but this course will focus on Phantom. 
+
+Solana’s Wallet-Adapter 
+
+Solana’s Wallet-Adapter is a suite of libraries you can use to simplify the process of supporting wallet browser extensions. 
+
+Solana’s Wallet-Adapter comprises multiple modular packages. The core functionality is found in @solana/wallet-adapter-base and @solana/wallet-adapter-react. 
+
+There are also packages that provide components for common UI frameworks. In this lesson and throughout this course, we’ll be using components from @solana/wallet-adapter-react-ui. 
+
+Finally, there are packages that are adapters for specific wallets, including Phantom. You can use @solana/wallet-adapter-wallets to include all of the supported wallets, or you can choose a specific wallet package like @solana/wallet-adapter-phantom. 
+
+Install Wallet-Adapter Libraries 
+
+When adding wallet support to an existing react app, you start by installing the appropriate packages. You’ll need  
+
+All wallets that support wallet standard are supported out of the box, and nearly all current Solana wallets support wallet standard. However if you wish to add support for any wallets that don't support the standard, add a package for them. 
+
+Article 5 (https://www.soldev.app/course/serialize-instruction-data) 
+
+Summary 
+
+Transactions are made up of an array of instructions, a single transaction can have any number of instructions in it, each targeting its own program. When a transaction is submitted, the Solana runtime will process its instructions in order and atomically, meaning that if any of the instructions fail for any reason, the entire transaction will fail to be processed. 
+
+Every instruction is made up of 3 components: the intended program's ID, an array of all account’s involved, and a byte buffer of instruction data. 
+
+Every transaction contains: an array of all accounts it intends to read or write, one or more instructions, a recent blockhash, and one or more signatures. 
+
+In order to pass instruction data from a client, it must be serialized into a byte buffer. To facilitate this process of serialization, we will be using Borsh. 
+
+Transactions can fail to be processed by the blockchain for any number of reasons, we’ll discuss some of the most common ones here. 
+
+Lesson 
+
+Transactions 
+
+Transactions are how we send information to the blockchain in order to be processed. So far, we’ve learned how to create very basic transactions with limited functionality. But transactions, and the programs they are sent to, can be designed to be far more flexible and handle far more complexity than we’ve dealt with up to now. 
+
+Transaction Contents 
+
+Every transaction contains: 
+
+An array that includes every account it intends to read or write 
+
+One or more instructions 
+
+A recent blockhash 
+
+One or more signatures 
+
+@solana/web3.js simplifies this process for you so that all you really need to focus on is adding instructions and signatures. The library builds the array of accounts based on that information and handles the logic for including a recent blockhash. 
+
+Instructions 
+
+Every instruction contains: 
+
+The program ID (public key) of the intended program 
+
+An array listing every account that will be read from or written to during execution 
+
+A byte buffer of instruction data 
+
+Identifying the program by its public key ensures that the instruction is carried out by the correct program. 
+
+Including an array of every account that will be read from or written to allows the network to perform a number of optimizations which allow for high transaction load and quicker execution. 
+
+The byte buffer lets you pass external data to a program. 
+
+You can include multiple instructions in a single transaction. The Solana runtime will process these instructions in order and atomically. In other words, if every instruction succeeds then the transaction as a whole will be successful, but if a single instruction fails then the entire transaction will fail immediately with no side-effects. 
+
+The account array is not just an array of the accounts’ public keys. Each object in the array includes the account’s public key, whether or not it is a signer on the transaction, and whether or not it is writable. Including whether or not an account is writable during the execution of an instruction allows the runtime to facilitate parallel processing of smart contracts. Because you must define which accounts are read-only and which you will write to, the runtime can determine which transactions are non-overlapping or read-only and allow them to execute concurrently. To learn more about the Solana’s runtime, check out this blog post. 
+
+Instruction Data 
+
+The ability to add arbitrary data to an instruction ensures that programs can be dynamic and flexible enough for broad use cases in the same way that the body of an HTTP request lets you build dynamic and flexible REST APIs. 
+
+Just as the structure of the body of an HTTP request is dependent on the endpoint you intend to call, the structure of the byte buffer used as instruction data is entirely dependent on the recipient program. If you’re building a full-stack dApp on your own, then you’ll need to copy the same structure that you used when building the program over to the client-side code. If you’re working with another developer who is handling the program development, you can coordinate to ensure matching buffer layouts. 
+
+Let’s think about a concrete example. Imagine working on a Web3 game and being responsible for writing client-side code that interacts with a player inventory program. The program was designed to allow the client to: 
+
+Add inventory based on a player’s game-play results 
+
+Transfer inventory from one player to another 
+
+Equip a player with selected inventory items 
+
+This program would have been structured such that each of these is encapsulated in its own function. 
+
+Each program, however, only has one entry point. You would instruct the program on which of these functions to run through the instruction data. 
+
+You would also include in the instruction data any information the function needs in order to execute properly, e.g. an inventory item’s ID, a player to transfer inventory to, etc. 
+
+Exactly how this data would be structured would depend on how the program was written, but it’s common to have the first field in instruction data be a number that the program can map to a function, after which additional fields act as function arguments. 
+
+Serialization 
+
+In addition to knowing what information to include in an instruction data buffer, you also need to serialize it properly. The most common serializer used in Solana is Borsh. Per the website: 
+
+Borsh stands for Binary Object Representation Serializer for Hashing. It is meant to be used in security-critical projects as it prioritizes consistency, safety, speed; and comes with a strict specification. 
+
+Borsh maintains a JS library that handles serializing common types into a buffer. There are also other packages built on top of borsh that try to make this process even easier. We’ll be using the @coral-xyz/borsh library which can be installed using npm. 
+
+Building off of the previous game inventory example, let’s look at a hypothetical scenario where we are instructing the program to equip a player with a given item. Assume the program is designed to accept a buffer that represents a struct with the following properties: 
+
+variant as an unsigned, 8-bit integer that instructs the program which instruction, or function, to execute. 
+
+playerId as an unsigned, 16-bit integer that represents the player ID of the player who is to be equipped with the given item. 
+
+itemId as an unsigned, 256-bit integer that represents the item ID of the item that will be equipped to the given player. 
+
+(2640 words)  

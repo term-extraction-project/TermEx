@@ -1,0 +1,994 @@
+Words;Status
+.bit;Term
+.eth;Term
+.kred;Term
+.luxe;Term
+16-bit integer;Term
+256-bit integer;Term
+2FA;Abb
+51 percent;Term
+51% attack;Term
+8-bit integer;Term
+@coral-xyz/borsh;Term
+@solana/web3.js;Term
+absolute finality;Term
+Accenture;Named Entity
+access control;Term
+access restrictions;Term
+accessibility;Term
+account;Term
+accounts;Term
+active Bitcoin users;Term
+ad hoc message;Term
+ad-hoc compute clusters;Term
+Adam Back;Named Entity
+address;Term
+addresses;Term
+AES;Abb
+AIG;Abb
+algorithm;Term
+alternative DNS root;Term
+Android;Named Entity
+Annie Li;Named Entity
+anonymous;Term
+Anti-Counterfeiting Blockathon Forum;Named Entity
+anti-counterfeiting infrastructure;Term
+Apple App Store;Named Entity
+arbitrary data;Term
+Argentina;Named Entity
+ARK;Abb
+ASCAP;Abb
+Asia;Named Entity
+asset;Term
+assets;Term
+asymmetric cryptography;Term
+asymmetric encryption;Term
+atomic;Term
+authenticated;Term
+authentication;Term
+authority;Term
+automated escrow;Term
+Axie Infinity;Named Entity
+back office;Term
+bank account,;Term
+Bank for International Settlements;Named Entity
+bank transfer;Term
+base-58 encoded;Term
+base-58 encoded strings;Term
+BBC World Service;Named Entity
+Beijing;Named Entity
+Berenberg;Named Entity
+Berkeley;Named Entity
+Bill Gates;Named Entity
+binary large objects;Term
+Binary Object Representation Serializer;Named Entity
+bitcoin;Term
+bitcoin blockchain;Term
+bitcoin cash;Term
+bitcoin cryptocurrency transactions;Term
+bitcoin design;Term
+Bitcoin Exchange-Traded Funds;Named Entity
+Bitcoin Layer 2;Term
+bitcoin network;Term
+Bitcoin Ordinals;Named Entity
+Bitcoin protocol;Term
+bitcoin split;Term
+Bitcoin white paper;Term
+bitcoin-mining farms;Term
+Bitcoin/EVM chains;Term
+Bitfinex Alpha;Named Entity
+Bitlayer;Named Entity
+Bitlayer Mainnet V1;Named Entity
+BitVM;Abb
+BitVM community;Term
+BitVM paradigm;Term
+BitVM technologies;Term
+BLOBs;Abb
+block;Term
+Block 0;Term
+block completion;Term
+block hashes;Term
+block header;Term
+block header hash;Term
+block producer;Term
+block size debate;Term
+block time;Term
+Blockathon;Named Entity
+blockchain;Term
+blockchain application;Term
+blockchain connectors;Term
+blockchain currency;Term
+blockchain database;Term
+blockchain engines;Term
+blockchain explorers;Term
+blockchain game;Term
+blockchain games;Term
+blockchain interoperability;Term
+blockchain ledger;Term
+blockchain mining;Term
+blockchain network;Term
+blockchain networks;Term
+blockchain projects;Term
+blockchain protocol;Term
+blockchain protocol engineering;Term
+blockchain protocols;Term
+blockchain prototype;Term
+blockchain records;Term
+Blockchain security;Term
+blockchain solutions;Term
+blockchain system;Term
+blockchain systems;Term
+blockchain table;Term
+blockchain technologies;Term
+blockchain technology;Term
+blockchain technology company;Term
+blockchain technology innovation;Term
+blockchain terminology;Term
+blockchain tracking services;Term
+blockchain transactions;Term
+blockchain wallets;Term
+blockchain-backed system;Term
+blockchain-based alternative;Term
+blockchain-based games;Term
+blockchain-based smart contracts;Term
+blockchain-based tracking service;Term
+blockchain-enabled cryptocurrencies;Term
+blockchain-like protocol;Term
+blockchains;Term
+blockhash;Term
+blocks;Term
+Bluehole;Named Entity
+borsh;Term
+BRC-20;Abb
+BRC-20 protocols;Term
+bridges;Term
+browser extensions;Term
+BTC;Abb
+BTC layer 2;Term
+bullish;Term
+Bundang-gu;Named Entity
+business value;Term
+byte array;Term
+byte buffer;Term
+Byzantine fault tolerance;Term
+Byzantine fault tolerance-based proof-of-stake;Term
+California;Named Entity
+Cambridge;Named Entity
+Cambridge University;Named Entity
+capella;Term
+Capital Markets Board;Named Entity
+card;Term
+Cardano;Named Entity
+Casper;Named Entity
+Casper protocol;Term
+cautious optimism;Term
+CENELEC;Abb
+central authority;Term
+central database;Term
+central server;Term
+centralization;Term
+centralized;Term
+centralized blockchain;Term
+centralized exchanges;Term
+certificate;Term
+Chacha20;Named Entity
+chain;Term
+Chainalysis;Named Entity
+Chamber of Digital Commerce;Named Entity
+China;Named Entity
+client;Term
+client-side code;Term
+CO2;Term
+coding;Term
+company shares;Term
+computational mistake;Term
+computational power;Term
+computational trust;Term
+computer network;Term
+Computerworld;Named Entity
+concurrency;Term
+confirm;Term
+consensus;Term
+consensus algorithm;Term
+consensus protocol;Term
+consensus-based distributed blockchains;Term
+consortium blockchain;Term
+consortium blockchains;Term
+consortium members;Term
+consumer crypto investors;Term
+Consumer Price Index;Term
+contracts;Term
+contractual obligations;Term
+corporate investment;Term
+cost basis;Term
+counterfeits;Term
+counterparty risk;Term
+COVID-19;Named Entity
+CPI;Abb
+CPI report;Term
+credit card;Term
+cross-border trades;Term
+cross-border transactions;Term
+crypto;Term
+crypto asset transactions;Term
+crypto community;Term
+crypto confidence;Term
+crypto drainer;Term
+Crypto Drainer Attacks;Term
+crypto drainers;Term
+crypto ecosystem;Term
+crypto events;Term
+crypto exchanges;Term
+crypto firms;Term
+crypto funds;Term
+crypto investors;Term
+crypto market;Term
+Crypto Regulation;Term
+crypto resolutions;Term
+crypto services;Term
+crypto sites;Term
+crypto space;Term
+crypto transaction;Term
+crypto wallets;Term
+Crypto Winter;Term
+crypto-to-crypto;Term
+cryptocurrencies;Term
+cryptocurrency;Term
+cryptocurrency market;Term
+cryptocurrency systems;Term
+cryptocurrency transactions;Term
+cryptocurrency wallet;Term
+cryptocurrency wallets;Term
+Cryptographer;Term
+cryptographic hash;Term
+cryptographic hashes;Term
+cryptographic innovations;Term
+cryptography;Term
+CryptoKitties;Named Entity
+currency;Term
+custodial;Term
+custodial account;Term
+custodial wallet;Term
+custody;Term
+cybercrime;Term
+Cynthia Dwork;Named Entity
+DAO;Abb
+dapp;Term
+dapps;Term
+dark market;Term
+dark web;Term
+data nodes;Term
+data points;Term
+data sampling;Term
+data storage;Term
+database;Term
+databases;Term
+Dave Bayer;Named Entity
+David Chaum;Named Entity
+debt crisis;Term
+decentralization;Term
+decentralized;Term
+decentralized applications;Term
+decentralized blockchain;Term
+decentralized blockchains;Term
+decentralized data verification;Term
+decentralized finance;Term
+decentralized networks;Term
+decentralized security;Term
+decentralized system;Term
+decrypt;Term
+dedicated password manager;Term
+deed;Term
+deeds;Term
+DeFi;Abb
+DeFi Wallet;Term
+democratic elections;Term
+deposit protection schemes;Term
+Diamond Trading Company;Named Entity
+difficulty target;Term
+Digiconomist;Named Entity
+digital asset;Term
+digital assets;Term
+digital currencies;Term
+digital currency;Term
+digital security offerings;Term
+Discord;Named Entity
+Discord communities;Term
+Discreet Log Contract;Term
+disinflation;Term
+distributed;Term
+distributed computing system;Term
+distributed database;Term
+distributed ledger;Term
+Distributed Ledger Technologies;Term
+distributed ledgers;Term
+distributed network;Term
+distributed networking;Term
+distributed timestamping server;Term
+DLC;Abb
+DLT;Abb
+DNS;Abb
+Docking Layer;Term
+document timestamps;Term
+dollar cost averaging;Term
+dollar cost averaging strategy;Term
+domain name services;Term
+domain names;Term
+Dora Yue;Named Entity
+double-spending;Term
+double-spending problem;Term
+drainer;Term
+drainers;Term
+dropped;Term
+DSOs;Abb
+DTC;Abb
+Dutch Standardisation organisation;Named Entity
+ECC;Abb
+economic finality;Term
+economic incentives;Term
+election fraud;Term
+electoral process;Term
+Electronic Arts;Named Entity
+Eli Ponyatovski;Named Entity
+Elizabeth I;Named Entity
+EmerDNS;Abb
+encoded;Term
+encrypt;Term
+encrypted;Term
+encryption;Term
+encryption algorithm;Term
+energy consumption;Term
+energy-intensive mining nodes;Term
+ENS;Abb
+entities;Term
+entry;Term
+entry point;Term
+EOS;Abb
+EOS ecosystem;Term
+EOS Mainnet;Term
+EOS Nation;Term
+EOS Network;Term
+EOS Network Foundation;Term
+EOS Network stakeholders;Term
+EOSIO;Abb
+Epic Games;Named Entity
+Epic Games Store;Named Entity
+ETF;Abb
+ETF inflow;Term
+ETF inflows;Term
+ETFs;Abb
+ETFs Witness;Term
+ETH;Abb
+Ether ETF;Named Entity
+ethereum;Term
+Ethereum blockchain;Term
+Ethereum Classic;Named Entity
+Ethereum Classic chains;Term
+Ethereum cryptocurrency;Term
+Ethereum ecosystem;Term
+Ethereum Merge;Named Entity
+Ethereum Name Service;Named Entity
+Ethereum network;Term
+Ethereum protocol;Term
+Ethereum staking;Term
+Ethereum upgrades;Term
+ethical standards;Term
+EUIPO;Abb
+European Commission;Named Entity
+European Committee for Electrotechnical Standardization;Named Entity
+European Union;Named Entity
+Everledger;Named Entity
+exahashes;Term
+exchange agreement;Term
+exchange outflows;Term
+Exchange-Traded Funds;Named Entity
+execution side;Term
+exSat;Named Entity
+external liaisons;Term
+Fair Trade;Named Entity
+farm-to-user journey;Term
+fault;Term
+FBI;Abb
+fiat currency;Term
+fiat-crypto exchanges;Term
+finality;Term
+finance;Term
+financial crisis;Term
+Financial institutions;Term
+Financial Times;Named Entity
+financial transparency;Term
+flash loans;Term
+Food Trust;Named Entity
+Food Trust blockchain;Named Entity
+Forbes;Named Entity
+fork;Term
+forked;Term
+forks;Term
+fraud;Term
+fraudulent voting;Term
+fraudulent web3 sites;Term
+full-stack dApp;Term
+gambling;Term
+gambling services;Term
+game-changer;Term
+GameFi;Named Entity
+Gartner;Named Entity
+gateway;Term
+GBP;Abb
+gemstones;Term
+genesis block;Term
+Germany;Named Entity
+Ghana;Named Entity
+Global Blockchain Forum;Named Entity
+global blockchain industry;Term
+global economy;Term
+global EOS community;Named Entity
+Google Play Store;Named Entity
+governance;Term
+gray market;Term
+Haber;Named Entity
+Hangzhou Internet Court;Named Entity
+hard fork;Term
+hard forks;Term
+Hardware wallets;Term
+hash;Term
+hash-based history;Term
+Hashcash;Term
+hashed;Term
+hashing;Term
+hashing algorithm;Term
+hexadecimal number;Term
+high speed;Term
+high-performance blockchain;Term
+high-throughput;Term
+hot wallet;Term
+housing market;Term
+HTTP request;Term
+human vote counting;Term
+hybrid blockchain;Term
+hybrid blockchains;Term
+Hyperledger;Named Entity
+Hyperledger Burrow;Named Entity
+Hyperledger Fabric;Named Entity
+Hyungchul Park;Named Entity
+IBM;Abb
+IBM Food Trust;Named Entity
+ICANN;Abb
+Icertis;Named Entity
+ICOs;Abb
+identity;Term
+IEEE;Abb
+IETF;Abb
+illicit purchases;Term
+illicit transactions;Term
+IMF;Abb
+immutability;Term
+immutable;Term
+immutably record;Term
+Imogen Heap;Named Entity
+in-game currency;Term
+in-game customization;Term
+in-game items;Term
+in-house blockchain solution;Term
+incomplete transactions;Term
+industrial production;Term
+infinite reproducibility;Term
+inflation;Term
+information propagation;Term
+information transparent;Term
+initial capital commitment;Term
+initial coin offerings;Term
+Institute of Electrical and Electronics Engineers;Named Entity
+instruction;Term
+instructions;Term
+intellectual property;Term
+intermediaries;Term
+International Computer Science Institute;Named Entity
+International Data Corp;Named Entity
+International Federation of Surveyors;Named Entity
+International Organization for Standardization;Named Entity
+International Telecommunication Union;Named Entity
+Internet Engineering Task Force;Named Entity
+internet of things;Term
+interoperability;Term
+investment arm;Term
+investment decisions;Term
+Investor Sentiment;Named Entity
+IOS;Named Entity
+IoT;Abb
+irreversible;Term
+ISO Technical Committee;Named Entity
+ISO Technical Committee 307;Named Entity
+item ID;Term
+ITU;Abb
+Janet Yellen;Named Entity
+Japan;Named Entity
+Jessie A Ellis;Named Entity
+JPMorgan Chase;Named Entity
+JS library;Named Entity
+key;Term
+key exchange;Term
+keypair;Term
+keypairs;Term
+Khan Academy;Named Entity
+Krafton;Named Entity
+KYC;Abb
+KYC standards;Term
+L1;Abb
+L1 verification;Term
+La Rose;Named Entity
+Lamport;Named Entity
+Lamports;Named Entity
+large data centers;Term
+latency;Term
+launder the funds;Term
+Layer 1 chains;Term
+Layer 2;Term
+layered scaling;Term
+ledger;Term
+ledger size;Term
+ledger system;Term
+legal contracts;Term
+legal tender;Term
+licensing system;Term
+lightweight blockchain-based network;Term
+Lightweight blockchains;Term
+Linux Foundation;Named Entity
+liquidity assets;Term
+liquidity pools;Term
+litecoin;Term
+live-service games;Term
+long-term holders;Term
+low-cost transaction experience;Term
+Magic Eden;Named Entity
+main chain;Term
+mainnet;Term
+malicious actor;Term
+malicious actors;Term
+malicious transactions;Term
+malware;Term
+Mark Cuban;Named Entity
+market cap;Term
+market sentiment;Term
+market volatility;Term
+matching private key;Term
+matching public key;Term
+medical records;Term
+meetups;Term
+memecoin;Term
+memory pool;Term
+Mercedes-Benz;Named Entity
+merchant;Term
+Merkle tree;Term
+Merkle trees;Term
+metaverse;Term
+metaverse content;Term
+Metaverse world;Term
+microinsurance;Term
+mined;Term
+miner;Term
+mining;Term
+mining nodes;Term
+mixing services;Term
+modern voting system;Term
+Monax;Named Entity
+Monero;Named Entity
+monetization;Term
+money laundering;Term
+money-making;Term
+Moni Naor;Named Entity
+mortgage rates;Term
+multiple blockchains;Term
+multiversion concurrency control;Term
+music distribution;Term
+mutual respect;Term
+MVCC;Abb
+Mycelia;Named Entity
+Nakamoto;Named Entity
+Namecoin;Named Entity
+national digital currency;Term
+National Institute of Standards and Technology;Named Entity
+natural gas;Term
+NEN;Abb
+net inflows;Term
+Netherlands;Named Entity
+network;Term
+network administrators;Term
+network update;Term
+network upgrade;Term
+network users;Term
+new transaction blocks;Term
+new whales;Term
+NFT;Abb
+NFT collections;Term
+NFT platform;Term
+NFT-based games;Term
+NFTs;Abb
+Nicholas Weaver;Named Entity
+Nigeria;Named Entity
+Nikolai Hampton;Named Entity
+NIST;Abb
+node;Term
+node discovery;Term
+nodes;Term
+non-custodial;Term
+non-custodial wallet;Term
+non-fungible tokens;Term
+non-public blockchain;Term
+nonce;Term
+nonce of zero;Term
+npm;Term
+NXT;Abb
+Nxt community;Named Entity
+OASIS;Abb
+offline wallet;Term
+OKX;Abb
+OKX Ventures;Named Entity
+on-chain support level;Term
+onchain;Term
+onchain data;Term
+open blockchains;Term
+open-source software;Term
+OpenNIC;Named Entity
+operator tampering;Term
+Oracle;Named Entity
+Oracle 21c;Named Entity
+Oracle 21c database;Named Entity
+Ordinals;Named Entity
+Ordinals trading community;Named Entity
+Organization for the Advancement of Structured Information Standards;Named Entity
+organizational efficiency;Term
+orphan blocks;Term
+overhyped technology;Term
+P2E;Abb
+P2P;Term
+Pakistan;Named Entity
+parallel processing;Term
+parametric insurance;Term
+password manager;Term
+passwords;Term
+payment;Term
+payment rail;Term
+PC gamers;Term
+peer-to-peer;Term
+peer-to-peer computer computations;Term
+peer-to-peer decentralized database applications;Term
+peer-to-peer energy trading;Term
+peer-to-peer insurance;Term
+peer-to-peer network;Term
+permission blockchains;Term
+permissioned blockchain;Term
+permissioned blockchains;Term
+permissioned private blockchain;Term
+permissionless blockchain;Term
+personal banking;Term
+Pfizer;Named Entity
+Phantom;Named Entity
+Phantom Wallet;Term
+phishing pages;Term
+phishing tool;Term
+physical ballots;Term
+physical deed;Term
+play-to-earn;Term
+player ID;Term
+Polkadot;Named Entity
+Polygon;Named Entity
+PoW;Abb
+PoW system;Term
+precious commodities;Term
+Precious commodities mining;Term
+PricewaterhouseCoopers;Named Entity
+primary blockchain;Term
+primary NFT platform;Term
+privacy;Term
+private blockchain;Term
+private blockchains;Term
+private corporate server;Term
+private key;Term
+private key theft;Term
+private keys;Term
+private STOs;Term
+private transactions;Term
+pro-crypto;Term
+probabilistic finality;Term
+Producer Price Index;Term
+product inventories;Term
+program ID;Term
+programs;Term
+proof of concept;Term
+proof of stake;Term
+proof of stake blockchain;Term
+proof of stake network;Term
+proof of work;Term
+proof-of-stake;Term
+proof-of-stake network;Term
+proof-of-stake networks;Term
+proof-of-work;Term
+proof-of-work algorithm;Term
+proof-of-work model;Term
+proof-of-work system;Term
+proofs of concept;Term
+property dispute;Term
+property ownership;Term
+proprietary blockchains;Term
+protocols;Term
+proves;Term
+PRS for Music;Named Entity
+pseudonymity;Term
+pseudonymous;Term
+pseudonymous creator;Term
+PUBG;Abb
+public blockchain;Term
+public blockchains;Term
+public databases;Term
+public distributed ledger;Term
+public index;Term
+public key;Term
+public key cryptography;Term
+public keys;Term
+public ledger;Term
+public STOs;Term
+public transparency;Term
+Pump.fun;Named Entity
+PwC;Abb
+QR Codes;Term
+Quorum;Named Entity
+race;Term
+ransom payment;Term
+ransomware;Term
+react app;Term
+real estate;Term
+real-world currency;Term
+real-world funds;Term
+real-world value;Term
+Reason;Named Entity
+Rebeca Moen;Named Entity
+record;Term
+record keeping;Term
+record-keeping;Term
+Recorder’s Office;Term
+recovery;Term
+recovery phrase;Term
+redundancy;Term
+reference architecture;Term
+registrar;Term
+regulation of cryptocurrencies;Term
+regulator-approved blockchain reporting system;Term
+regulatory oversight;Term
+reputable wallet;Term
+REST APIs;Named Entity
+reward;Term
+rollback;Term
+rollups;Term
+RSA;Abb
+Runes;Named Entity
+Rust;Named Entity
+Satoshi Nakamoto;Named Entity
+scalability;Term
+scalability problems;Term
+scammers;Term
+scams;Term
+scripts;Term
+SEC;Abb
+second tier suppliers;Term
+secret key;Term
+secret key holder;Term
+secret keys;Term
+secure;Term
+secure hash-based history;Term
+secure transaction signing;Term
+securely;Term
+security;Term
+security token offerings;Term
+self custody;Term
+Self-custodial;Term
+self-custody;Term
+sell-offs;Term
+Seongnam;Named Entity
+serialization;Term
+serializer;Term
+session key;Term
+Seth Green;Named Entity
+settlement;Term
+settlement systems;Term
+Shanghai;Named Entity
+Shanghai-Capella;Named Entity
+shared database;Term
+sharing economy;Term
+short-term holders;Term
+sidechain;Term
+Siemens;Named Entity
+signature;Term
+signatures;Term
+Silk Road;Named Entity
+simplified blockchains;Term
+skin gambling;Term
+slashing;Term
+smart contract;Term
+smart contract exploitation;Term
+smart contract systems;Term
+smart contracts;Term
+snake oil;Term
+social media accounts;Term
+social platforms;Term
+Society for Worldwide Interbank Financial Telecommunication;Named Entity
+software wallets;Term
+SOL;Abb
+Solana;Named Entity
+Solana ecosystem;Term
+Solana Labs;Named Entity
+Solana network;Term
+Solana programs;Term
+Solana runtime;Term
+Solana wallet;Term
+Solana wallet addresses;Term
+solana/web3.js;Term
+Solana’s Wallet-Adapter;Named Entity
+solar power;Term
+Solidity;Named Entity
+South Korean;Named Entity
+spread;Term
+spreadsheets;Term
+stake;Term
+stake network;Term
+staked eth;Term
+staked ether;Term
+stakers;Term
+staking;Term
+Staking account;Term
+Staking Earn Account;Term
+standards;Term
+Standards Australia;Named Entity
+state identifications;Term
+Steam;Named Entity
+Steam digital storefront;Named Entity
+STH;Abb
+STO;Abb
+stock traders;Term
+store;Term
+Stornetta;Named Entity
+STOs;Abb
+Stuart Haber;Named Entity
+supply chain;Term
+supply chain management;Term
+supply chain monitoring;Term
+Supply Chains;Term
+Surety;Named Entity
+sustainable development;Term
+sustainable management;Term
+swap crypto-to-crypto;Term
+swap cryptocurrencies;Term
+Sweden;Named Entity
+SWIFT;Abb
+symmetric cryptography;Term
+symmetric cryptography algorithms;Term
+symmetric encryption;Term
+Take Two Interactive;Named Entity
+tamper;Term
+tampered;Term
+Taproot;Named Entity
+target hash;Term
+temporary fork;Term
+temporary wallet;Term
+Terrill Dicki;Named Entity
+The Handshake Network;Named Entity
+The New York Times;Named Entity
+The Wall Street Journal;Named Entity
+The World Bank;Named Entity
+third-party verification;Term
+throughput;Term
+Tim Harford;Named Entity
+time-stamped blocks;Term
+time-stamping;Term
+timestamp;Term
+timestamps;Term
+title rights;Term
+TLD;Abb
+TLDs;Abb
+token;Term
+token holders;Term
+tokenization;Term
+top-level domain;Term
+tor;Term
+Tor Browser;Named Entity
+Total Value Locked;Term
+TPS;Abb
+traceable;Term
+Tracer;Named Entity
+track data;Term
+traditional assets;Term
+traditional corporate databases;Term
+transaction;Term
+transaction automation;Term
+Transaction contents;Term
+transaction data;Term
+transaction fees;Term
+transaction information;Term
+transaction proposals;Term
+transaction speeds;Term
+transactions;Term
+transactions per second;Term
+transparency;Term
+transparent;Term
+trusted;Term
+trustless bridge;Term
+trustlessness;Term
+Turing completeness;Term
+TVL;Abb
+TWh;Abb
+Twitter;Named Entity
+two factor authentication;Term
+Two-Factor Authentication;Term
+Türkiye;Named Entity
+U.S.;Abb
+U.S. Institute of Museum and Library Services;Named Entity
+Ubisoft;Named Entity
+UBS;Named Entity
+ultra-scalability;Term
+unauthorized logins;Term
+UNECE;Abb
+Unilever;Named Entity
+unique hash;Term
+unique identifiers;Term
+United Kingdom;Named Entity
+United Nations Economic Commission;Named Entity
+United Nations Economic Commission for Europe;Named Entity
+United States;Named Entity
+Unstoppable Domains;Named Entity
+untraceable cash;Term
+US;Abb
+US Securities and Exchange Commission;Named Entity
+USA;Abb
+USD;Abb
+USDC;Abb
+user privacy;Term
+usernames;Term
+valid hash;Term
+valid transactions;Term
+validate transactions;Term
+validator;Term
+validator access;Term
+value-exchange protocol;Term
+Valve;Named Entity
+Valve Corporation;Named Entity
+VanEck;Named Entity
+verification process;Term
+video games;Term
+virtual currencies;Term
+virtual items;Term
+Visa;Named Entity
+volatile periods;Term
+voter turnout;Term
+voting system;Term
+vulnerabilities;Term
+W. Scott Stornetta;Named Entity
+wallet;Term
+wallet address;Term
+Wallet Guard;Named Entity
+wallet standard;Term
+wallet support;Term
+wallet-adapter;Term
+Wallet-Adapter library;Term
+wallets;Term
+Walmart;Named Entity
+Web 3.0;Named Entity
+Web 3.0 ecosystem;Term
+Web 3.0 Roundtable;Term
+web traffic;Term
+web3;Named Entity
+web3 ecosystem;Term
+Web3 game;Term
+Web3 gaming;Term
+web3 projects;Term
+Web3 security extensions;Term
+web3 services;Term
+web3 site;Term
+Web3 technology;Term
+Wegner;Named Entity
+Western;Named Entity
+whitepaper;Term
+wind farms;Term
+withdrawals;Term
+YouTube;Named Entity
+Yves La Rose;Named Entity
+Zach Anderson;Named Entity

@@ -1,0 +1,161 @@
+Part 2.  
+
+Standardisation  
+
+In April 2016, Standards Australia submitted a proposal to the International Organization for Standardization to consider developing standards to support blockchain technology. This proposal resulted in the creation of ISO Technical Committee 307, Blockchain and Distributed Ledger Technologies.[62] The technical committee has working groups relating to blockchain terminology, reference architecture, security and privacy, identity, smart contracts, governance and interoperability for blockchain and DLT, as well as standards specific to industry sectors and generic government requirements.[63][non-primary source needed] More than 50 countries are participating in the standardization process together with external liaisons such as the Society for Worldwide Interbank Financial Telecommunication (SWIFT), the European Commission, the International Federation of Surveyors, the International Telecommunication Union (ITU) and the United Nations Economic Commission for Europe (UNECE).[63]  
+
+Many other national standards bodies and open standards bodies are also working on blockchain standards.[64] These include the National Institute of Standards and Technology[65] (NIST), the European Committee for Electrotechnical Standardization[66] (CENELEC), the Institute of Electrical and Electronics Engineers[67] (IEEE), the Organization for the Advancement of Structured Information Standards (OASIS), and some individual participants in the Internet Engineering Task Force[68] (IETF).  
+
+Centralized blockchain  
+
+Although most of blockchain implementation are decentralized and distributed, Oracle launched a centralized blockchain table feature in Oracle 21c database. The Blockchain Table in Oracle 21c database is a centralized blockchain which provide immutable feature. Compared to decentralized blockchains, centralized blockchains normally can provide a higher throughput and lower latency of transactions than consensus-based distributed blockchains.[69][70]  
+
+Types  
+
+Currently, there are at least four types of blockchain networks — public blockchains, private blockchains, consortium blockchains and hybrid blockchains.  
+
+Public blockchains  
+
+A public blockchain has absolutely no access restrictions. Anyone with an Internet connection can send transactions to it as well as become a validator (i.e., participate in the execution of a consensus protocol).[71][self-published source?] Usually, such networks offer economic incentives for those who secure them and utilize some type of a proof-of-stake or proof-of-work algorithm.  
+
+Some of the largest, most known public blockchains are the bitcoin blockchain and the Ethereum blockchain.  
+
+Private blockchains  
+
+A private blockchain is permissioned.[53] One cannot join it unless invited by the network administrators. Participant and validator access is restricted. To distinguish between open blockchains and other peer-to-peer decentralized database applications that are not open ad-hoc compute clusters, the terminology Distributed Ledger (DLT) is normally used for private blockchains.  
+
+Hybrid blockchains  
+
+A hybrid blockchain has a combination of centralized and decentralized features.[72] The exact workings of the chain can vary based on which portions of centralization and decentralization are used.  
+
+  
+
+Sidechains  
+
+A sidechain is a designation for a blockchain ledger that runs in parallel to a primary blockchain.[73][74] Entries from the primary blockchain (where said entries typically represent digital assets) can be linked to and from the sidechain; this allows the sidechain to otherwise operate independently of the primary blockchain (e.g., by using an alternate means of record keeping, alternate consensus algorithm, etc.).[75][better source needed]  
+
+Consortium blockchain  
+
+A consortium blockchain is a type of blockchain that combines elements of both public and private blockchains. In a consortium blockchain, a group of organizations come together to create and operate the blockchain, rather than a single entity. The consortium members jointly manage the blockchain network and are responsible for validating transactions. Consortium blockchains are permissioned, meaning that only certain individuals or organizations are allowed to participate in the network. This allows for greater control over who can access the blockchain and helps to ensure that sensitive information is kept confidential.  
+
+Consortium blockchains are commonly used in industries where multiple organizations need to collaborate on a common goal, such as supply chain management or financial services. One advantage of consortium blockchains is that they can be more efficient and scalable than public blockchains, as the number of nodes required to validate transactions is typically smaller. Additionally, consortium blockchains can provide greater security and reliability than private blockchains, as the consortium members work together to maintain the network. Some examples of consortium blockchains include Quorum and Hyperledger.[76]  
+
+Uses  
+
+Bitcoin's transactions are recorded on a publicly viewable blockchain.  
+
+Blockchain technology can be integrated into multiple areas. The primary use of blockchains is as a distributed ledger for cryptocurrencies such as bitcoin; there were also a few other operational products that had matured from proof of concept by late 2016.[52] As of 2016, some businesses have been testing the technology and conducting low-level implementation to gauge blockchain's effects on organizational efficiency in their back office.[77]  
+
+In 2019, it was estimated that around $2.9 billion were invested in blockchain technology, which represents an 89% increase from the year prior. Additionally, the International Data Corp has estimated that corporate investment into blockchain technology will reach $12.4 billion by 2022.[78] Furthermore, According to PricewaterhouseCoopers (PwC), the second-largest professional services network in the world, blockchain technology has the potential to generate an annual business value of more than $3 trillion by 2030. PwC's estimate is further augmented by a 2018 study that they have conducted, in which PwC surveyed 600 business executives and determined that 84% have at least some exposure to utilizing blockchain technology, which indicates a significant demand and interest in blockchain technology.[79]  
+
+In 2019, the BBC World Service radio and podcast series Fifty Things That Made the Modern Economy identified blockchain as a technology that would have far-reaching consequences for economics and society. The economist and Financial Times journalist and broadcaster Tim Harford discussed why the underlying technology might have much wider applications and the challenges that needed to be overcome.[80] His first broadcast was on June 29, 2019.  
+
+The number of blockchain wallets quadrupled to 40 million between 2016 and 2020.[81]  
+
+ A paper published in 2022 discussed the potential use of blockchain technology in sustainable management.[82]  
+
+Cryptocurrencies  
+
+Main article: Cryptocurrency  
+
+Most cryptocurrencies use blockchain technology to record transactions. For example, the bitcoin network and Ethereum network are both based on blockchain.  
+
+The criminal enterprise Silk Road, which operated on Tor, utilized cryptocurrency for payments, some of which the US federal government has seized through research on the blockchain and forfeiture.[83]  
+
+Governments have mixed policies on the legality of their citizens or banks owning cryptocurrencies. China implements blockchain technology in several industries including a national digital currency which launched in 2020.[84] To strengthen their respective currencies, Western governments including the European Union and the United States have initiated similar projects.[85]  
+
+Smart contracts  
+
+Main article: Smart contract  
+
+Blockchain-based smart contracts are proposed contracts that can be partially or fully executed or enforced without human interaction.[86] One of the main objectives of a smart contract is automated escrow. A key feature of smart contracts is that they do not need a trusted third party (such as a trustee) to act as an intermediary between contracting entities — the blockchain network executes the contract on its own. This may reduce friction between entities when transferring value and could subsequently open the door to a higher level of transaction automation.[87] An IMF staff discussion from 2018 reported that smart contracts based on blockchain technology might reduce moral hazards and optimize the use of contracts in general. But "no viable smart contract systems have yet emerged." Due to the lack of widespread use, their legal status was unclear.[88][89]  
+
+Financial services  
+
+According to Reason, many banks have expressed interest in implementing distributed ledgers for use in banking and are cooperating with companies creating private blockchains,[90][91][92] and according to a September 2016 IBM study, this is occurring faster than expected.[93]  
+
+Banks are interested in this technology not least because it has the potential to speed up back office settlement systems.[94] Moreover, as the blockchain industry has reached early maturity institutional appreciation has grown that it is, practically speaking, the infrastructure of a whole new financial industry, with all the implications which that entails.[95]  
+
+Banks such as UBS are opening new research labs dedicated to blockchain technology in order to explore how blockchain can be used in financial services to increase efficiency and reduce costs.[96][97]  
+
+Berenberg, a German bank, believes that blockchain is an "overhyped technology" that has had a large number of "proofs of concept", but still has major challenges, and very few success stories.[98]  
+
+The blockchain has also given rise to initial coin offerings (ICOs) as well as a new category of digital asset called security token offerings (STOs), also sometimes referred to as digital security offerings (DSOs).[99] STO/DSOs may be conducted privately or on public, regulated stock exchange and are used to tokenize traditional assets such as company shares as well as more innovative ones like intellectual property, real estate,[100] art, or individual products. A number of companies are active in this space providing services for compliant tokenization, private STOs, and public STOs.  
+
+  
+
+Games  
+
+Main article: Blockchain game  
+
+Blockchain technology, such as cryptocurrencies and non-fungible tokens (NFTs), has been used in video games for monetization. Many live-service games offer in-game customization options, such as character skins or other in-game items, which the players can earn and trade with other players using in-game currency. Some games also allow for trading of virtual items using real-world currency, but this may be illegal in some countries where video games are seen as akin to gambling, and has led to gray market issues such as skin gambling, and thus publishers typically have shied away from allowing players to earn real-world funds from games.[101] Blockchain games typically allow players to trade these in-game items for cryptocurrency, which can then be exchanged for money.[102]  
+
+The first known game to use blockchain technologies was CryptoKitties, launched in November 2017, where the player would purchase NFTs with Ethereum cryptocurrency, each NFT consisting of a virtual pet that the player could breed with others to create offspring with combined traits as new NFTs.[103][102] The game made headlines in December 2017 when one virtual pet sold for more than US$100,000.[104] CryptoKitties also illustrated scalability problems for games on Ethereum when it created significant congestion on the Ethereum network in early 2018 with approximately 30% of all Ethereum transactions[clarification needed] being for the game.[105][106  
+
+By the early 2020s, there had not been a breakout success in video games using blockchain, as these games tend to focus on using blockchain for speculation instead of more traditional forms of gameplay, which offers limited appeal to most players. Such games also represent a high risk to investors as their revenues can be difficult to predict.[102] However, limited successes of some games, such as Axie Infinity during the COVID-19 pandemic, and corporate plans towards metaverse content, refueled interest in the area of GameFi, a term describing the intersection of video games and financing typically backed by blockchain currency, in the second half of 2021.[107] Several major publishers, including Ubisoft, Electronic Arts, and Take Two Interactive, have stated that blockchain and NFT-based games are under serious consideration for their companies in the future.[108]  
+
+In October 2021, Valve Corporation banned blockchain games, including those using cryptocurrency and NFTs, from being hosted on its Steam digital storefront service, which is widely used for personal computer gaming, claiming that this was an extension of their policy banning games that offered in-game items with real-world value. Valve's prior history with gambling, specifically skin gambling, was speculated to be a factor in the decision to ban blockchain games.[109] Journalists and players responded positively to Valve's decision as blockchain and NFT games have a reputation for scams and fraud among most PC gamers,[101][109] and Epic Games, which runs the Epic Games Store in competition to Steam, said that they would be open to accepted blockchain games in the wake of Valve's refusal.[110]  
+
+Supply chain  
+
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (August 2023)  
+
+There have been several different efforts to employ blockchains in supply chain management.  
+
+Precious commodities mining — Blockchain technology has been used for tracking the origins of gemstones and other precious commodities. In 2016, The Wall Street Journal reported that the blockchain technology company Everledger was partnering with IBM's blockchain-based tracking service to trace the origin of diamonds to ensure that they were ethically mined.[111] As of 2019, the Diamond Trading Company (DTC) has been involved in building a diamond trading supply chain product called Tracer.[112]  
+
+Food supply — As of 2018, Walmart and IBM were running a trial to use a blockchain-backed system for supply chain monitoring for lettuce and spinach — all nodes of the blockchain were administered by Walmart and were located on the IBM cloud.[113]  
+
+Fashion industry — There is an opaque relationship between brands, distributors, and customers in the fashion industry, which will prevent the sustainable and stable development of the fashion industry. Blockchain makes up for this shortcoming and makes information transparent, solving the difficulty of sustainable development of the industry.[114]  
+
+Motor vehicles — Mercedes-Benz and partner Icertis developed a blockchain prototype used to facilitate consistent documentation of contracts along the supply chain so that the ethical standards and contractual obligations required of its direct suppliers can be passed on to second tier suppliers and beyond.[115][116] In another project, the company uses blockchain technology to track the emissions of climate-relevant gases and the amount of secondary material along the supply chain for its battery cell manufacturers.[117]  
+
+Domain names  
+
+There are several different efforts to offer domain name services via the blockchain. These domain names can be controlled by the use of a private key, which purports to allow for uncensorable websites. This would also bypass a registrar's ability to suppress domains used for fraud, abuse, or illegal content.[118]  
+
+Namecoin is a cryptocurrency that supports the ".bit" top-level domain (TLD). Namecoin was forked from bitcoin in 2011. The .bit TLD is not sanctioned by ICANN, instead requiring an alternative DNS root.[118] As of 2015, .bit was used by 28 websites, out of 120,000 registered names.[119] Namecoin was dropped by OpenNIC in 2019, due to malware and potential other legal issues.[120] Other blockchain alternatives to ICANN include The Handshake Network,[119] EmerDNS, and Unstoppable Domains.[118]  
+
+Specific TLDs include ".eth", ".luxe", and ".kred", which are associated with the Ethereum blockchain through the Ethereum Name Service (ENS). The .kred TLD also acts as an alternative to conventional cryptocurrency wallet addresses as a convenience for transferring cryptocurrency.[121]  
+
+Other uses   
+
+Blockchain technology can be used to create a permanent, public, transparent ledger system for compiling data on sales, tracking digital use and payments to content creators, such as wireless users[122] or musicians.[123] The Gartner 2019 CIO Survey reported 2% of higher education respondents had launched blockchain projects and another 18% were planning academic projects in the next 24 months.[124] In 2017, IBM partnered with ASCAP and PRS for Music to adopt blockchain technology in music distribution.[125] Imogen Heap's Mycelia service has also been proposed as a blockchain-based alternative "that gives artists more control over how their songs and associated data circulate among fans and other musicians."[126][127]   
+
+New distribution methods are available for the insurance industry such as peer-to-peer insurance, parametric insurance and microinsurance following the adoption of blockchain.[128][129] The sharing economy and IoT are also set to benefit from blockchains because they involve many collaborating peers.[130] The use of blockchain in libraries is being studied with a grant from the U.S. Institute of Museum and Library Services.[131]   
+
+Other blockchain designs include Hyperledger, a collaborative effort from the Linux Foundation to support blockchain-based distributed ledgers, with projects under this initiative including Hyperledger Burrow (by Monax) and Hyperledger Fabric (spearheaded by IBM).[132][133][134] Another is Quorum, a permissioned private blockchain by JPMorgan Chase with private storage, used for contract applications.[135]   
+
+Oracle introduced a blockchain table feature in its Oracle 21c database.[69][70]   
+
+Blockchain is also being used in peer-to-peer energy trading.[136][137][138]   
+
+Lightweight blockchains, or simplified blockchains, are more suitable for internet of things (IoT) applications than conventional blockchains.[139] One experiment suggested that a lightweight blockchain-based network could accommodate up to 1.34 million authentication processes every second, which could be sufficient for resource-constrained IoT networks.[140]   
+
+Blockchain could be used in detecting counterfeits by associating unique identifiers to products, documents and shipments, and storing records associated with transactions that cannot be forged or altered.[141][142] It is however argued that blockchain technology needs to be supplemented with technologies that provide a strong binding between physical objects and blockchain systems,[143] as well as provisions for content creator verification ala KYC standards.[144] The EUIPO established an Anti-Counterfeiting Blockathon Forum, with the objective of "defining, piloting and implementing" an anti-counterfeiting infrastructure at the European level.[145][146] The Dutch Standardisation organisation NEN uses blockchain together with QR Codes to authenticate certificates.[147]   
+
+Beijing and Shanghai are among the cities designated by China to trial blockchain applications as January 30, 2022.[148] In Chinese legal proceedings, blockchain technology was first accepted as a method for authenticating internet evidence by the Hangzhou Internet Court in 2019 and has since been accepted by other Chinese courts.[149]: 123–125    
+
+Blockchain interoperability   
+
+With the increasing number of blockchain systems appearing, even only those that support cryptocurrencies, blockchain interoperability is becoming a topic of major importance. The objective is to support transferring assets from one blockchain system to another blockchain system. Wegner[150] stated that "interoperability is the ability of two or more software components to cooperate despite differences in language, interface, and execution platform". The objective of blockchain interoperability is therefore to support such cooperation among blockchain systems, despite those kinds of differences.   
+
+There are already several blockchain interoperability solutions available.[151] They can be classified into three categories: cryptocurrency interoperability approaches, blockchain engines, and blockchain connectors.   
+
+Several individual IETF participants produced the draft of a blockchain interoperability architecture.[152]   
+
+Energy consumption concerns   
+
+Some cryptocurrencies use blockchain mining — the peer-to-peer computer computations by which transactions are validated and verified. This requires a large amount of energy. In June 2018, the Bank for International Settlements criticized the use of public proof-of-work blockchains for their high energy consumption.[153][154][155]   
+
+Early concern over the high energy consumption was a factor in later blockchains such as Cardano (2017), Solana (2020) and Polkadot (2020) adopting the less energy-intensive proof-of-stake model. Researchers have estimated that Bitcoin consumes 100,000 times as much energy as proof-of-stake networks.[156][157]   
+
+In 2021, a study by Cambridge University determined that Bitcoin (at 121 terawatt-hours per year) used more electricity than Argentina (at 121TWh) and the Netherlands (109TWh).[158] According to Digiconomist, one bitcoin transaction required 708 kilowatt-hours of electrical energy, the amount an average U.S. household consumed in 24 days.[159]   
+
+In February 2021, U.S. Treasury secretary Janet Yellen called Bitcoin "an extremely inefficient way to conduct transactions", saying "the amount of energy consumed in processing those transactions is staggering".[160] In March 2021, Bill Gates stated that "Bitcoin uses more electricity per transaction than any other method known to mankind", adding "It's not a great climate thing."[161]   
+
+Nicholas Weaver, of the International Computer Science Institute at the University of California, Berkeley, examined blockchain's online security, and the energy efficiency of proof-of-work public blockchains, and in both cases found it grossly inadequate.[162][163] The 31TWh-45TWh of electricity used for bitcoin in 2018 produced 17-23 million tonnes of CO2.[164][165] By 2022, the University of Cambridge and Digiconomist estimated that the two largest proof-of-work blockchains, Bitcoin and Ethereum, together used twice as much electricity in one year as the whole of Sweden, leading to the release of up to 120 million tonnes of CO2 each year.[166]   
+
+Some cryptocurrency developers are considering moving from the proof-of-work model to the proof-of-stake model.[167]  
+
+ 

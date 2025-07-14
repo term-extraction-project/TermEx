@@ -1,0 +1,29 @@
+Article 5 (https://blockchain.news/news/krafton-partners-with-solana-labs-to-develop-blockchain-based-games)  
+
+Krafton Partners with Solana Labs to Develop blockchain-based Games 
+
+Game developer for PC and mobile devices Krafton partners with Solana Labs to develop blockchain-based games and services in the Metaverse world. 
+
+Annie Li 
+
+Mar 28, 2022 09:05 
+
+Krafton Partners with Solana Labs to Develop blockchain-based Games 
+
+Game developer for PC and mobile devices Krafton partners with Solana Labs to develop blockchain-based games and services in the Metaverse world. 
+
+Krafton, stylized as KRAFTON which was formerly known as Bluehole, is a South Korean company that develops and distributes video games based in Bundang-gu, Seongnam. 
+
+The South Korean gaming giant hopes to boost its position in the market by developing a Metaverse "money-making" game using blockchain technology. 
+
+The company even made its wildly popular PUBG game free last year. PUBG is ranked among the top downloaded games on Steam and routinely has close to 10 million active users. 
+
+The lead executive of Web 3.0 Roundtable at Krafton, Hyungchul Park, said in a statement that: 
+
+“As one of the best global high-performance blockchain with strength in high speed and low fees, Solana represents the best of the Web 3.0 ecosystem and its technologies. Through this cooperation, KRAFTON will acquire the insight needed to accelerate its investment in and output of blockchain-based experiences.” 
+
+According to the agreement, KRAFTON and Solana Labs will establish a long-term partnership to develop and operate blockchain and NFT-based games and services. However, Krafton has yet to say whether it will integrate blockchain technology into existing games. 
+
+Compared to Ethereum’s Solidity language when developing play-to-earn (P2E) games, the ease of use of Solana’s building language- Rust will give Solana a competitive edge. 
+
+Solana has already rolled out $400 million to enhance Web3 gaming over the last six months. 

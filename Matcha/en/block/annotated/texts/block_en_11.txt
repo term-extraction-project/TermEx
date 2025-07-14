@@ -1,0 +1,91 @@
+Article 5 (https://www.soldev.app/course/serialize-instruction-data) 
+
+Summary 
+
+Transactions are made up of an array of instructions, a single transaction can have any number of instructions in it, each targeting its own program. When a transaction is submitted, the Solana runtime will process its instructions in order and atomically, meaning that if any of the instructions fail for any reason, the entire transaction will fail to be processed. 
+
+Every instruction is made up of 3 components: the intended program's ID, an array of all account’s involved, and a byte buffer of instruction data. 
+
+Every transaction contains: an array of all accounts it intends to read or write, one or more instructions, a recent blockhash, and one or more signatures. 
+
+In order to pass instruction data from a client, it must be serialized into a byte buffer. To facilitate this process of serialization, we will be using Borsh. 
+
+Transactions can fail to be processed by the blockchain for any number of reasons, we’ll discuss some of the most common ones here. 
+
+Lesson 
+
+Transactions 
+
+Transactions are how we send information to the blockchain in order to be processed. So far, we’ve learned how to create very basic transactions with limited functionality. But transactions, and the programs they are sent to, can be designed to be far more flexible and handle far more complexity than we’ve dealt with up to now. 
+
+Transaction Contents 
+
+Every transaction contains: 
+
+An array that includes every account it intends to read or write 
+
+One or more instructions 
+
+A recent blockhash 
+
+One or more signatures 
+
+@solana/web3.js simplifies this process for you so that all you really need to focus on is adding instructions and signatures. The library builds the array of accounts based on that information and handles the logic for including a recent blockhash. 
+
+Instructions 
+
+Every instruction contains: 
+
+The program ID (public key) of the intended program 
+
+An array listing every account that will be read from or written to during execution 
+
+A byte buffer of instruction data 
+
+Identifying the program by its public key ensures that the instruction is carried out by the correct program. 
+
+Including an array of every account that will be read from or written to allows the network to perform a number of optimizations which allow for high transaction load and quicker execution. 
+
+The byte buffer lets you pass external data to a program. 
+
+You can include multiple instructions in a single transaction. The Solana runtime will process these instructions in order and atomically. In other words, if every instruction succeeds then the transaction as a whole will be successful, but if a single instruction fails then the entire transaction will fail immediately with no side-effects. 
+
+The account array is not just an array of the accounts’ public keys. Each object in the array includes the account’s public key, whether or not it is a signer on the transaction, and whether or not it is writable. Including whether or not an account is writable during the execution of an instruction allows the runtime to facilitate parallel processing of smart contracts. Because you must define which accounts are read-only and which you will write to, the runtime can determine which transactions are non-overlapping or read-only and allow them to execute concurrently. To learn more about the Solana’s runtime, check out this blog post. 
+
+Instruction Data 
+
+The ability to add arbitrary data to an instruction ensures that programs can be dynamic and flexible enough for broad use cases in the same way that the body of an HTTP request lets you build dynamic and flexible REST APIs. 
+
+Just as the structure of the body of an HTTP request is dependent on the endpoint you intend to call, the structure of the byte buffer used as instruction data is entirely dependent on the recipient program. If you’re building a full-stack dApp on your own, then you’ll need to copy the same structure that you used when building the program over to the client-side code. If you’re working with another developer who is handling the program development, you can coordinate to ensure matching buffer layouts. 
+
+Let’s think about a concrete example. Imagine working on a Web3 game and being responsible for writing client-side code that interacts with a player inventory program. The program was designed to allow the client to: 
+
+Add inventory based on a player’s game-play results 
+
+Transfer inventory from one player to another 
+
+Equip a player with selected inventory items 
+
+This program would have been structured such that each of these is encapsulated in its own function. 
+
+Each program, however, only has one entry point. You would instruct the program on which of these functions to run through the instruction data. 
+
+You would also include in the instruction data any information the function needs in order to execute properly, e.g. an inventory item’s ID, a player to transfer inventory to, etc. 
+
+Exactly how this data would be structured would depend on how the program was written, but it’s common to have the first field in instruction data be a number that the program can map to a function, after which additional fields act as function arguments. 
+
+Serialization 
+
+In addition to knowing what information to include in an instruction data buffer, you also need to serialize it properly. The most common serializer used in Solana is Borsh. Per the website: 
+
+Borsh stands for Binary Object Representation Serializer for Hashing. It is meant to be used in security-critical projects as it prioritizes consistency, safety, speed; and comes with a strict specification. 
+
+Borsh maintains a JS library that handles serializing common types into a buffer. There are also other packages built on top of borsh that try to make this process even easier. We’ll be using the @coral-xyz/borsh library which can be installed using npm. 
+
+Building off of the previous game inventory example, let’s look at a hypothetical scenario where we are instructing the program to equip a player with a given item. Assume the program is designed to accept a buffer that represents a struct with the following properties: 
+
+variant as an unsigned, 8-bit integer that instructs the program which instruction, or function, to execute. 
+
+playerId as an unsigned, 16-bit integer that represents the player ID of the player who is to be equipped with the given item. 
+
+itemId as an unsigned, 256-bit integer that represents the item ID of the item that will be equipped to the given player. 

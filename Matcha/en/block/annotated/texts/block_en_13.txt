@@ -1,0 +1,33 @@
+Article 2 (https://blockchain.news/news/bitcoin-displays-potential-stability-amidst-global-economic-uncertainty) 
+
+OKX Ventures Invests in Bitcoin Layer 2 Solution, Bitlayer 
+
+OKX Ventures announces a strategic investment in Bitlayer, a Bitcoin Layer 2 solution based on BitVM. 
+
+Jessie A Ellis 
+
+May 20, 2024 11:41 
+
+OKX Ventures Invests in Bitlayer 
+
+OKX Ventures, the investment arm of the leading crypto exchange and Web3 technology company OKX, has announced a strategic investment in Bitlayer. Bitlayer is the first Bitcoin (BTC) security-equivalent Layer 2 based on BitVM. 
+
+Bitlayer's Aim 
+
+Bitlayer aims to scale the Bitcoin network's transaction capability. The company supports the Taproot and BitVM technologies and has adopted the Discreet Log Contract (DLC) framework. The DLC framework allows Bitlayer to handle more conditional financial applications securely. 
+
+Bitcoin's Dominance 
+
+Over the past 15 years, Bitcoin has dominated 53.4% of the more than 2.28 trillion crypto assets. Ethereum contributed 15.8%, with its Total Value Locked (TVL) exceeding $90 billion. Layer 2 solutions have scaled to $39 billion. The momentum brought by the Ordinals, Runes, and BRC-20 protocols are evident, with Runes and Ordinals reaching a market cap of over $700 million and $33 million, respectively. This equates to approximately $418 million in total fees. Moreover, over 11.39 million active Bitcoin users are seeking diverse interactions within the Bitcoin network. 
+
+Comments from OKX Ventures Founder 
+
+OKX Ventures Founder Dora Yue commented on the investment, 'Bitcoin has won trust through its development philosophy, designed around decentralization, trustlessness, and pseudonymity to maintain user privacy. OKX Ventures supports Bitcoin scaling specifically through vertical, horizontal, inward, and layered scaling in past investment portfolios. Bitlayer addresses the two main challenges in Bitcoin Layer 2: L1 verification and a trustless bridge. This is achieved by contributing to the BitVM community and project. Since the launch of Bitlayer Mainnet V1, it has accumulated $179,600 in fees last month and now also supports multiple bridges between Bitlayer and other Layer 1 chains, including Bitcoin/EVM chains. We look forward to seeing more Bitcoin amplifications like NFTs and other liquidity assets produced on Bitlayer.' 
+
+About Bitlayer 
+
+Bitlayer is the first Bitcoin Layer 2 solution based on the BitVM paradigm. Bitlayer's core objective is to address the trade-off between security (trustlessness) and Turing completeness in BTC layer 2 through cryptographic innovations and blockchain protocol engineering. Bitlayer is committed to becoming the computation layer for Bitcoin, aiming to introduce ultra-scalability to Bitcoin while inheriting its security, providing users with a high-throughput, low-cost transaction experience. 
+
+About OKX Ventures 
+
+OKX Ventures is the investment arm of global leading crypto exchange and Web3 technology company OKX, with an initial capital commitment of USD 100 million. It focuses on exploring the best blockchain projects on a global scale, supporting cutting-edge blockchain technology innovation, promoting the healthy development of the global blockchain industry, and investing in long-term structural value. Through its commitment to supporting entrepreneurs who contribute to the development of the blockchain industry, OKX Ventures helps build innovative companies and brings global resources and historical experience to blockchain projects. 
