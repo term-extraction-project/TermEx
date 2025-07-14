@@ -1,0 +1,693 @@
+Words;Status
+2FA;Abb
+AES;Abb
+AIG;Abb
+ASCAP;Abb
+Accenture;Named Entity
+Android;Named Entity
+Apple App Store;Named Entity
+Axie Infinity;Named Entity
+BBC Дүниежүзілік қызметінің;Named Entity
+BLOBs;Abb
+BTC;Abb
+BitVM;Abb
+BitVM парадигмасына;Term
+BitVM қауымдастығы;Term
+Bitfinex Alpha-дағы;Named Entity
+Bitlayer;Named Entity
+Bitlayer Mainnet V1;Named Entity
+Bitlayer-ге;Named Entity
+Bitlayer-де;Named Entity
+Bitlayer-дің;Named Entity
+Bluehole;Named Entity
+CENELEC;Abb
+CIO;Abb
+COVID-19;Named Entity
+Cardano;Named Entity
+Casper;Named Entity
+Chacha20;Named Entity
+Chainalysis;Named Entity
+Computerworld;Named Entity
+Computerworld-те;Named Entity
+CryptoKitties;Named Entity
+DLC;Abb
+DLT;Abb
+DNS;Abb
+DSO;Abb
+DTC;Abb
+DeFi;Abb
+Diamond Trading Company;Named Entity
+Digiconomist;Named Entity
+Discord;Named Entity
+Discord қауымдастықтарында;Term
+ENS;Abb
+EOS Mainnet;Named Entity
+EOS Nation;Term
+EOS Network;Term
+EOS Network Foundation;Term
+EOSIO;Abb
+ETF;Abb
+ETH;Abb
+EUIPO;Abb
+Electronic Arts;Named Entity
+EmerDNS;Abb
+Epic Games;Named Entity
+Ethereum Classic;Named Entity
+Ethereum Merge;Named Entity
+Ethereum Name Service;Named Entity
+Ethereum жаңартулары;Term
+Ethereum желісі;Term
+Ethereum экожүйесінде;Term
+Ethereum үлесі;Term
+Ethereum-ның Solidity;Term
+Everledger;Named Entity
+Explorer сайты;Term
+Fair Trade;Named Entity
+Financial Times;Named Entity
+Food Trust;Named Entity
+Food Trust блокчейнін;Named Entity
+Forbes;Named Entity
+GameFi;Named Entity
+Gartner;Named Entity
+Google Play Store;Named Entity
+HTTP сұрауының;Term
+Handshake Network;Named Entity
+Hyperledger;Named Entity
+Hyperledger Burrow;Named Entity
+Hyperledger Fabric;Named Entity
+IBM;Abb
+IBM Food Trust;Named Entity
+IBM-тің блокчейнге негізделген бақылау қызметімен;Named Entity
+ICANN;Abb
+ICO;Abb
+IEEE;Abb
+IETF;Abb
+ISO 307 Техникалық Комитетін;Named Entity
+ITU;Abb
+Icertis;Named Entity
+Imogen Heap;Named Entity
+International Data Corp;Named Entity
+IoT;Abb
+JPMorgan Chase;Named Entity
+JS кітапханасын;Named Entity
+KYC;Abb
+Khan Academy;Named Entity
+Lamport;Named Entity
+Lamports;Named Entity
+MVCC;Abb
+Magic Eden;Named Entity
+Mercedes-Benz;Named Entity
+Monax;Named Entity
+Monero;Named Entity
+Mycelia;Named Entity
+NEN;Abb
+NFT;Abb
+NFT жинақтарыңызды;Term
+NFT негізіндегі ойындар;Term
+NFTs;Abb
+NIST;Abb
+NXT;Abb
+Namecoin;Named Entity
+New York Times;Named Entity
+Nxt қауымдастығы;Named Entity
+OASIS;Abb
+OKX Ventures;Named Entity
+On-chain деректеріне;Term
+OpenNIC;Named Entity
+Oracle;Named Entity
+Oracle 21c;Named Entity
+Oracle 21c дерекқорында;Named Entity
+Ordinals;Named Entity
+Ordinals сауда қауымдастығын;Named Entity
+P2E;Abb
+P2P;Abb
+PRS for Music;Named Entity
+PUBG;Abb
+Pfizer;Named Entity
+Phantom;Named Entity
+Play-to-earn;Term
+PoW;Abb
+Polkadot;Named Entity
+Polygon;Named Entity
+PricewaterhouseCoopers;Named Entity
+Pump.fun;Named Entity
+PwC;Abb
+QR кодтарымен;Term
+Quorum;Named Entity
+REST API;Named Entity
+RSA;Term
+Runes;Named Entity
+Rust;Named Entity
+STO;Abb
+SWIFT;Abb
+Siemens;Named Entity
+Solana;Named Entity
+Solana Labs;Term
+Solana Labsw;Named Entity
+Solana желісі;Term
+Solana экожүйесінде;Term
+Solana әмиян;Term
+Solana's Wallet-Adapter;Named Entity
+Standards Australia;Named Entity
+Steam;Named Entity
+Steam цифрлық дүкен;Named Entity
+Surety;Named Entity
+TLD;Abb
+TPS;Abb
+Take Two Interactive;Named Entity
+Taproot;Named Entity
+The Handshake Network;Named Entity
+The Wall Street Journal;Named Entity
+Tracer;Named Entity
+Türkiye;Named Entity
+UBS;Abb
+UNECE;Abb
+US;Abb
+Ubisoft;Named Entity
+Unilever;Named Entity
+Unstoppable Domains;Named Entity
+Valve;Named Entity
+Valve корпорациясы;Named Entity
+VanEck;Named Entity
+Visa;Named Entity
+Wallet Guard;Named Entity
+Walmart;Named Entity
+Web 3.0;Named Entity
+Web3 жобалары;Term
+Web3 ойын;Term
+Web3 технологиялық;Term
+Web3 экожүйесіне;Term
+Web3 қауіпсіздік кеңейтімдері;Term
+Web3 қызметтері;Term
+YouTube;Named Entity
+borsh;Term
+byte array;Term
+defi әмиян;Term
+ethereum блокчейн;Term
+exsat;Named Entity
+krafton;Named Entity
+proof-of-stake;Term
+proof-of-work;Term
+sol;Abb
+web3;Named Entity
+Адам Бэк;Named Entity
+Азия;Named Entity
+Америка Құрама Штаттары;Named Entity
+Аппараттық әмияндар;Term
+Аргентина;Named Entity
+Асимметриялық шифрлау;Term
+Асыл тауарларды өндіру;Named Entity
+АҚШ;Abb
+АҚШ Мұражай және кітапхана қызметтері институтының;Named Entity
+АҚШ-тың Бағалы Қағаздар және Биржалар жөніндегі Комиссиясы;Named Entity
+Батыс;Named Entity
+Беренберг;Named Entity
+Берклидегі;Named Entity
+Билл Гейтс;Named Entity
+Биржа Қорлары;Named Entity
+Биржалық трейдерлер;Term
+Биткоин Ordinals;Named Entity
+Биткоин Биржа Қорлары;Named Entity
+Биткоин ақ қағазын;Term
+Биткоиндер;Term
+Биткоиннің дизайны;Term
+Блокатон;Named Entity
+Блокчейн дерекқордағы;Term
+Блокчейн ойыны;Term
+Блокчейн технологияларын;Term
+Блокчейн қауіпсіздігінің;Term
+Бунданг-гу;Named Entity
+Біріккен Ұлттар Ұйымының Еуропалық экономикалық комиссиясы;Named Entity
+БҚ;Abb
+БҚжБжК;Abb
+Бүйірлік тізбектер;Term
+В. Скотт Сторнетта;Named Entity
+Вегнер;Named Entity
+Гана;Named Entity
+Германия;Named Entity
+ДК;Abb
+Джанет Йеллен;Named Entity
+Джесси А Эллис;Named Entity
+Дора Юэ;Named Entity
+Дэвид Чаум;Named Entity
+Дэйв Байер;Named Entity
+Дэйв Байердің;Named Entity
+Дүниежүзілік банкаралық қаржылық телекоммуникациялар қоғамы;Named Entity
+Есептік жазбалар;Term
+Еуропалық Одақ;Named Entity
+Жалған Web3 сайттары;Term
+Жапонияда;Named Entity
+Жеке транзакциялар;Term
+Жеңіл блокчейндер;Term
+Жібек жолы;Named Entity
+ЖҚҚ;Abb
+Зак Андерсон;Named Entity
+Ив Ла Роуз;Named Entity
+Инвесторлардың Көңіл-күйі;Named Entity
+Интернет-инженерлік жұмыс тобы;Named Entity
+Калифорния;Named Entity
+Капитал Нарығы;Term
+Капитал Нарығы Кеңесі;Named Entity
+Кембридж университеті;Named Entity
+Кембридж университетінің;Named Entity
+Контрафактілік Қарсы Блокатон Форумын;Term
+Криптовалюталарды Реттеу;Term
+Кілттік жұптар;Term
+Ла Роуз;Named Entity
+Ла Роуздың;Named Entity
+Марк Кубан;Named Entity
+Мони Наор;Named Entity
+Моторлы көліктер;Named Entity
+Мүліктік дау;Term
+Накамото;Named Entity
+Нигерия;Named Entity
+Нидерланд Стандарттау ұйымы;Named Entity
+Нидерландыға;Named Entity
+Николай Хэмптон;Named Entity
+Николас Уивер;Named Entity
+Орталықтандырылмаған блокчейндер;Term
+Орталықтандырылмаған жүйедегі;Term
+Ортақ экономика;Term
+Оңтүстік Кореяның;Named Entity
+Оңтүстік кореялық;Named Entity
+Пекин;Named Entity
+Ребека Моэн;Named Entity
+Сандық валютаны;Term
+Сатоши Накамото;Named Entity
+Сатоши Накамотоның;Named Entity
+Сет Грин;Named Entity
+Синтия Дворк;Named Entity
+Соннамның;Named Entity
+Сторнетта;Named Entity
+Стюарт Хабер;Named Entity
+ТБИ;Abb
+Терилл Дикки;Named Entity
+Тим Харфорд;Named Entity
+Тор Браузері;Named Entity
+Транзакция мазмұны;Term
+Тізбектің дәлдігі;Term
+Тұтыну Бағаларының Индексі;Term
+ХВҚ;Abb
+Хабер;Named Entity
+Халықаралық Есеп Айырысу Банкі;Named Entity
+Халықаралық компьютерлік ғылым институтының;Named Entity
+Халықаралық электр байланысы одағы;Named Entity
+Ханчжоу интернет-соты;Named Entity
+Хёнчул Парк;Named Entity
+Шанхай;Named Entity
+Шанхай-Капелла;Named Entity
+Швецияға;Named Entity
+Электротехника және электроника инженерлері институты;Named Entity
+Эли Понятовский;Named Entity
+Энни Ли;Named Entity
+Эфириум блокчейн;Term
+актив;Term
+активтер;Term
+алаяқтық;Term
+алаяқтықтар;Term
+алгоритм;Term
+алгоритмдер;Term
+алдамшы дауыс;Term
+алдыңғы блок;Term
+алдыңғы блоктар;Term
+асимметриялық криптография;Term
+асимметриялық криптографиялық алгоритмдер;Term
+аутентификация;Term
+ашық блокчейндер;Term
+ашық кілт;Term
+ашық кілттер;Term
+ашық кілтті криптография;Term
+ашықтық;Term
+аяқталмаған транзакцияларды;Term
+ақылды келісімшарт;Term
+ақылды келісімшарттар;Term
+байт буфер;Term
+балама консенсус алгоритмін;Term
+банктік шоты;Term
+бастапқы блокқа;Term
+бастапқы монета ұсыныстарын;Term
+бағдарлама;Term
+бағдарлама деректер;Term
+бағдарлама идентификаторы;Term
+бағдарламалар;Term
+бағдарламалық жасақтама;Term
+бағдарламалық әмияндар;Term
+беделді әмиянды;Term
+белсенді Биткоин пайдаланушылары;Term
+биткоин;Term
+биткоин блокчейн;Term
+биткоин желісі;Term
+биткоин транзакциялар;Term
+биткоиндік транзакция;Term
+биткойн;Term
+биткойн-майнинг фермалары;Term
+блок;Term
+блок тақырыбы;Term
+блок тақырыбының хэші;Term
+блок өндірушіге;Term
+блоктар;Term
+блоктық хэштерді;Term
+блоктың тақырыбындағы;Term
+блоктың хэш;Term
+блокхашты;Term
+блокчейн;Term
+блокчейн валютасымен;Term
+блокчейн жазбалар;Term
+блокчейн желілері;Term
+блокчейн желісі;Term
+блокчейн жобалар;Term
+блокчейн жүйелер;Term
+блокчейн жүйесі;Term
+блокчейн кесте мүмкіндігін;Term
+блокчейн майнингін;Term
+блокчейн ойындары;Term
+блокчейн протоколдарының;Term
+блокчейн протоколы;Term
+блокчейн протоколының инженериясы;Term
+блокчейн терминологиясы;Term
+блокчейн технологиялық компаниясы;Term
+блокчейн технологиясы;Term
+блокчейн транзакция;Term
+блокчейн транзакциялар;Term
+блокчейн форктары;Term
+блокчейн шешімдері;Term
+блокчейн қосымшаларын;Term
+блокчейн қосқыштары;Term
+блокчейн әмияндарының;Term
+блокчейнге негізделген жүйені;Term
+блокчейнге негізделген ойындар;Term
+блокчейнге ұқсас протоколды;Term
+блокчейндер;Term
+блокчейннің өзара әрекеттесуі;Term
+бопсалаушы бағдарламалардан;Term
+буфер;Term
+бэк-офис;Term
+бірегей идентификаторларды;Term
+бірегей хэші;Term
+бүйірлік тізбекке;Term
+валидатор;Term
+валидаторлар;Term
+валюта;Term
+валюталар;Term
+веб-сайт;Term
+веб-сайттар;Term
+венчурлық инвестициялар;Term
+виртуалды валюталардың;Term
+виртуалды элементтерді;Term
+виртуалды үй жануары;Term
+генезис-блок;Term
+гибридті блокчейн;Term
+гибридті блокчейндер;Term
+дауыс беру жүйесі;Term
+депозиттерді қорғау схемаларына;Term
+деректер түйіндері;Term
+деректерді сақтау;Term
+деректерді іріктеуді;Term
+деңгей;Term
+домендік атау қызметтерін;Term
+дәстүрлі активтерді;Term
+екі факторлы аутентификация;Term
+екілік нысанды көрсету сериялық;Named Entity
+екінші деңгейлі жеткізушілерге;Term
+ерікті деректерді;Term
+есеп;Term
+есеп айырысу;Term
+есептеу кластерлері;Term
+есептеу сенімі;Term
+есептеу қуаты;Term
+есептеуіш қуаттылықтың;Term
+есептік жазба;Term
+жады пулы;Term
+жазба;Term
+жазбалар;Term
+жазбаларды сақтау;Term
+жазбаларын сақтаудағы;Term
+жарамды транзакциялар;Term
+жарамды хэш;Term
+жария тізілімі;Term
+жасырын ақпаратты;Term
+жаңа транзакция блоктарын;Term
+жаһандық блокчейн индустриясының;Term
+жаһандық блокчейн форумын;Named Entity
+жедел несиелерді;Term
+жеке банкингтен;Term
+жеке басын;Term
+жеке блоктар;Term
+жеке блокчейн;Term
+жеке блокчейндер;Term
+жеке кілт;Term
+жеке кілттер;Term
+жекешелендірілген блокчейндердің;Term
+жел;Term
+желер;Term
+желі;Term
+желі жаңартуы;Term
+желі түйіндеріне;Term
+желі әкімшілері;Term
+желілер;Term
+желінің түйіндері;Term
+жетім блоктар;Term
+жеңіл блокчейн;Term
+жеңілдетілген блокчейндер;Term
+жоғары деңгейлі доменді;Term
+жоғары таратылған есептеу жүйесін;Term
+жоғары өткізу қабілетті;Term
+жылжымайтын мүлік;Term
+жұмыс дәлелі;Term
+заманауи дауыс беру жүйесін;Term
+заттардың интернеті;Term
+заңды келісімшарттар;Term
+заңды төлем құралы;Term
+заңсыз сатып алулар;Term
+зиянды транзакция;Term
+зиянды қатысушылардан;Term
+зияткерлік меншік;Term
+идентификатор;Term
+идентификаторларды;Term
+интернет;Term
+инфляция;Term
+келісім-шартар;Term
+келісімшарттар;Term
+клиенттік код;Term
+клиринг процесі;Term
+код;Term
+компания акциялары;Term
+компьютерлік желі;Term
+консенсус;Term
+консенсус алгоритмін;Term
+консенсус хаттамасын;Term
+консорциум блокчейн;Term
+консорциум блокчейндер;Term
+консорциум мүшелері;Term
+контрафактілік;Term
+корпоративтік инвестиция;Term
+крипто;Term
+крипто қоғамдастығы;Term
+крипто ұрлаушылар;Term
+криптоактивтер;Term
+криптовалюта;Term
+криптовалюта биржалары;Term
+криптовалюта биржасы;Term
+криптовалюта жүйелері;Term
+криптовалюта транзакциялары;Term
+криптовалюта қорлары;Term
+криптовалюта әмияндарына;Term
+криптовалюта әмияны;Term
+криптовалюталар;Term
+криптограф;Term
+криптография;Term
+криптографиялық инновациялар;Term
+криптографиялық хэштер;Term
+криптографиялық хэші;Term
+криптографиялық іс-шаралар;Term
+криптонарықтағы;Term
+кілт;Term
+кілт алмасу;Term
+кілттер;Term
+кілттер жұбы;Term
+кіру;Term
+кіру мәліметтері;Term
+кітапхана;Term
+майнер;Term
+майнинг;Term
+маркшейдерлердің халықаралық федерациясы;Named Entity
+медициналық карта;Term
+медициналық карталарын;Term
+мекенжай;Term
+мекенжайлар;Term
+мемкоиндарды;Term
+мемлекеттік жеке куәліктер;Term
+мемлекеттік сәйкестендірулер;Term
+меншік құқығын;Term
+метаверсті;Term
+микросақтандыру;Term
+мүлікке иелік;Term
+мәліметтер базасы;Term
+мөлдір;Term
+мөлдірлік;Term
+нарықтық капиталдандыруға;Term
+негізгі NFT платформасы;Term
+негізгі желісін;Term
+негізгі тізбек;Term
+несие картасы;Term
+нұсқау;Term
+нұсқаулар;Term
+нұсқаулық деректер;Term
+ойыншы идентификаторын;Term
+орталық орган;Term
+орталықсыз;Term
+орталықсыздандыру;Term
+орталықсыздандырылған;Term
+орталықтандырылмаған блокчейн;Term
+орталықтандырылмаған қаржы;Term
+орталықтандырылмаған қауіпсіздік;Term
+орталықтандырылмаған қолданбаларыңыздың;Term
+орталықтандырылған биржаларға;Term
+орталықтандырылған блокчейн;Term
+орталықтандырылған блокчейндер;Term
+ортақ индекспен;Term
+оффлайн әмиянда;Term
+пайда;Term
+пайдаланушы;Term
+пайдаланушылар;Term
+пайдаланушының құпиялылығын;Term
+пайдалы;Term
+параметрлік сақтандыру;Term
+протокол;Term
+протоколдар;Term
+реттеуші өзгерістер;Term
+реттік кілтін;Term
+рұқсат;Term
+рұқсат етілген блокчейндер;Term
+рұқсат етілген жеке блокчейн;Term
+сайлау;Term
+сайлаудағы;Term
+сайлауларда;Term
+сайлаушылардың;Term
+сандық актив;Term
+сандық активтер;Term
+сатылым;Term
+сатылымдар;Term
+сақтандыру;Term
+сеанс кілтін;Term
+сенімді тарап қол;Term
+сенімді тұлға;Term
+сенімсіз көпір;Term
+сенімсіздік;Term
+сериализатор;Term
+сертификаттардың аутентификациясы;Term
+серіктестік;Term
+симметриялық криптография;Term
+симметриялық криптографиялық алгоритмдер;Term
+симметриялық шифрлау;Term
+скрипт;Term
+сланецті газ;Term
+смарт келісімшарттар;Term
+табыс;Term
+тарап тәуекелі;Term
+тарату желісін;Term
+таратылған желілерді;Term
+тексеру процесінен;Term
+терават-сағат;Term
+тең-теңімен энергия саудасында;Term
+токен;Term
+токендерді;Term
+токенизация;Term
+транзакция;Term
+транзакция деректер;Term
+транзакциялар;Term
+транзакциялық комиссиялар;Term
+транзакцияға қауіпсіз қол қоюды;Term
+трансшекаралық сауда;Term
+тізбек;Term
+тізбектер;Term
+тізім;Term
+тіркеушінің;Term
+түйін;Term
+түйіндер;Term
+түпнұсқа;Term
+тұлға;Term
+тұлғалар;Term
+төлем;Term
+төлемдер;Term
+уақыт белгілері;Term
+уақыт белгілеу;Term
+уақыт белгісі;Term
+уақытша әмиян;Term
+фишинг құралы;Term
+форк;Term
+форктары;Term
+форктер;Term
+халықаралық стандарттау ұйымына;Named Entity
+хэш;Term
+хэширлеуге;Term
+хэштелген;Term
+хэштеу;Term
+хэштеу алгоритмі;Term
+цифрлық активтер;Term
+цифрлық активтің;Term
+цифрлық валюта;Term
+цифрлық валюталар;Term
+цифрлық сауда палатасының;Named Entity
+шарттық міндеттемелерді;Term
+шифрлау;Term
+шот;Term
+шоттар;Term
+экожүйесі;Term
+экономика;Term
+электротехникалық стандарттау жөніндегі Еуропалық комитет;Named Entity
+элементінің идентификаторы;Term
+энергияны тұтыну;Term
+этикалық стандарттар;Term
+ішкі блокчейн шешімдері;Term
+ҚМҰ;Abb
+Қаранғы желі;Term
+Қаржы институттары;Term
+Қатты форктер;Term
+Қытай;Named Entity
+Қытайда;Named Entity
+Қытайдың;Named Entity
+Қытайлық;Named Entity
+қаржылық ашықтықты;Term
+қарсы тарап тәуекелі;Term
+қате;Term
+қателерді;Term
+қатты форк;Term
+қауіпсіздік;Term
+қолданба;Term
+қолданбалар;Term
+қолжетімді;Term
+қолжетімділік;Term
+қолжетімсіз;Term
+қолтаңба;Term
+қорғаныс;Term
+қоғамдық блокчейн;Term
+қоғамдық блокчейндер;Term
+қоғамдық индекске;Term
+қысқа мерзімді ұстаушылардың;Term
+құмар ойын;Term
+құмар ойын қызметтерін;Term
+құмар ойындар;Term
+құпия кілт;Term
+құпия кілттер;Term
+құпиялылық;Term
+құқықтық белгісіздіктің;Term
+Үлестіру;Term
+үлес;Term
+үшінші тараптың тексеру;Term
+Ұлттық стандарттар және технологиялар институты;Named Entity
+Ұлыбритания;Named Entity
+ұрлаушы;Term
+ұрлаушылар;Term
+Әділ Сауда;Named Entity
+әлемдегі EOS қауымдастығын;Named Entity
+әмиян;Term
+әмиян мекенжайлары;Term
+әмиян мекенжайы;Term
+әмиян стандартын;Term
+әмияндар;Term
+әмияндарға қолдау;Term
+әрекетші;Term
+өзін-өзі сақтау;Term
+өкілеттігін;Term
+өкілеттікті;Term
